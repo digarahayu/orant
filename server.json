@@ -1,6 +1,6 @@
 [
   {
-    "batch": "3",
+    "batch": "1",
     "code": "dev local",
     "alias": "local",
     "name": "Localhost",
@@ -509,6 +509,12 @@
     "asset_url": "hhttps://raw.githubusercontent.com/digarahayu/orant/main",
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
+    "border_avatar": [
+      "bronze.svg",
+      "silver.svg",
+      "gold.svg",
+      "platinum.svg"
+    ],
     "menu": [
       {
         "code": "competition",
