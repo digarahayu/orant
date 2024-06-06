@@ -1,0 +1,774 @@
+[
+  {
+    "batch": "1",
+    "code": "dev local",
+    "alias": "local",
+    "name": "Localhost",
+    "host": "orangt.dev",
+    "valid_to": "9999-01-01",
+    "secure": false,
+    "sign_with_password": true,
+    "sign_with_google": true,
+    "logo_small_path": "assets/images/logo/orangt.png",
+    "instagram": "https://www.instagram.com/lms_orangt/",
+    "facebook": "https://www.facebook.com/lmsorangt",
+    "twitter": "https://twitter.com/OrangtL",
+    "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
+    "asset_url": "https://mzone-production-b01.s3.ap-southeast-3.amazonaws.com/mobile",
+    "icon_menu_dir": "default/icon_menu",
+    "border_avatar_dir": "default/border_avatar",
+    "border_avatar": [
+      "bronze.svg",
+      "silver.svg",
+      "gold.svg",
+      "platinum.svg"
+    ],
+    "menu": [
+      {
+        "code": "knowledge",
+        "label": "knowledge",
+        "image_svg": "knowledge.svg",
+        "color": "4CAF50",
+        "route": "knowledge",
+        "args": null
+      },
+      {
+        "code": "news",
+        "label": "news",
+        "image_svg": "news.svg",
+        "color": "F44336",
+        "route": "news",
+        "args": null
+      },
+      {
+        "code": "content",
+        "label": "content",
+        "image_svg": "content.svg",
+        "color": "4CAF50",
+        "route": "content",
+        "args": null
+      },
+      {
+        "code": "training",
+        "label": "training",
+        "image_svg": "training.svg",
+        "color": "2196F3",
+        "route": "training",
+        "args": null
+      },
+      {
+        "code": "assessment",
+        "label": "assessment",
+        "image_svg": "assessment.svg",
+        "color": "3F51B5",
+        "route": "assessment",
+        "args": null
+      },
+      {
+        "code": "coaching_mentoring",
+        "label": "coaching_mentoring",
+        "image_svg": "coaching_mentoring.svg",
+        "color": "00BCD4",
+        "route": "coaching_mentoring",
+        "args": null
+      },
+      {
+        "code": "expert",
+        "label": "expert",
+        "image_svg": "expert.svg",
+        "color": "F44336",
+        "route": "expert",
+        "args": null
+      },
+      {
+        "code": "daily_activity",
+        "label": "daily_activity",
+        "image_svg": "daily_activity.svg",
+        "color": "9C27B0",
+        "route": "daily_activity",
+        "args": null
+      },
+      {
+        "code": "reward",
+        "label": "reward",
+        "image_svg": "reward.svg",
+        "color": "3F51B5",
+        "route": "reward",
+        "args": null
+      },
+      {
+        "code": "competition",
+        "label": "competition",
+        "image_svg": "competition.svg",
+        "color": "FFEB3B",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "regulation",
+        "label": "regulation",
+        "image_svg": "regulation.svg",
+        "color": "8BC34A",
+        "route": "regulation",
+        "args": null
+      },
+      {
+        "code": "deviation",
+        "label": "deviation",
+        "image_svg": "deviation.svg",
+        "color": "F44336",
+        "route": "deviation",
+        "args": null
+      },
+      {
+        "code": "gratification",
+        "label": "gratification",
+        "image_svg": "deviation.svg",
+        "color": "795548",
+        "route": "gratification",
+        "args": null
+      },
+      {
+        "code": "archive",
+        "label": "archive",
+        "image_svg": "archive.svg",
+        "color": "00BCD4",
+        "route": "archive",
+        "args": null
+      }
+    ]
+  },
+  {
+    "batch": "1",
+    "code": "sps dev",
+    "alias": "sps dev",
+    "name": "SPS DEV",
+    "host": "sps-dev.myorangt.com",
+    "valid_to": "9999-01-01",
+    "secure": false,
+    "sign_with_password": true,
+    "sign_with_google": true,
+    "logo_small_path": "assets/images/logo/orangt.png",
+    "instagram": "https://www.instagram.com/lms_orangt/",
+    "facebook": "https://www.facebook.com/lmsorangt",
+    "twitter": "https://twitter.com/OrangtL",
+    "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
+    "asset_url": "https://mzone-production-b01.s3.ap-southeast-3.amazonaws.com/mobile",
+    "icon_menu_dir": "default/icon_menu",
+    "border_avatar_dir": "default/border_avatar",
+    "border_avatar": [
+      "bronze.svg",
+      "silver.svg",
+      "gold.svg",
+      "platinum.svg"
+    ],
+    "menu": [
+      {
+        "code": "knowledge",
+        "label": "knowledge",
+        "image_svg": "knowledge.svg",
+        "color": "4CAF50",
+        "route": "knowledge",
+        "args": null
+      },
+      {
+        "code": "news",
+        "label": "news",
+        "image_svg": "news.svg",
+        "color": "F44336",
+        "route": "news",
+        "args": null
+      },
+      {
+        "code": "content",
+        "label": "content",
+        "image_svg": "content.svg",
+        "color": "E91E63",
+        "route": "content",
+        "args": null
+      },
+      {
+        "code": "training",
+        "label": "training",
+        "image_svg": "training.svg",
+        "color": "2196F3",
+        "route": "training",
+        "args": null
+      },
+      {
+        "code": "assessment",
+        "label": "assessment",
+        "image_svg": "assessment.svg",
+        "color": "3F51B5",
+        "route": "assessment",
+        "args": null
+      },
+      {
+        "code": "coaching_mentoring",
+        "label": "coaching_mentoring",
+        "image_svg": "coaching_mentoring.svg",
+        "color": "00BCD4",
+        "route": "coaching_mentoring",
+        "args": null
+      },
+      {
+        "code": "expert",
+        "label": "expert",
+        "image_svg": "expert.svg",
+        "color": "F44336",
+        "route": "expert",
+        "args": null
+      },
+      {
+        "code": "daily_activity",
+        "label": "daily_activity",
+        "image_svg": "daily_activity.svg",
+        "color": "9C27B0",
+        "route": "daily_activity",
+        "args": null
+      },
+      {
+        "code": "competition",
+        "label": "competition",
+        "image_svg": "competition.svg",
+        "color": "FFEB3B",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "regulation",
+        "label": "regulation",
+        "image_svg": "regulation.svg",
+        "color": "8BC34A",
+        "route": "regulation",
+        "args": null
+      },
+      {
+        "code": "deviation",
+        "label": "deviation",
+        "image_svg": "deviation.svg",
+        "color": "F44336",
+        "route": "deviation",
+        "args": null
+      },
+      {
+        "code": "gratification",
+        "label": "gratification",
+        "image_svg": "deviation.svg",
+        "color": "795548",
+        "route": "gratification",
+        "args": null
+      },
+      {
+        "code": "archive",
+        "label": "archive",
+        "image_svg": "archive.svg",
+        "color": "00BCD4",
+        "route": "archive",
+        "args": null
+      }
+    ]
+  },
+  {
+    "batch": "1",
+    "code": "ljr dev",
+    "alias": "ljr dev",
+    "name": "LJR DEV",
+    "host": "ljr-dev.myorangt.com",
+    "valid_to": "9999-01-01",
+    "secure": false,
+    "sign_with_password": true,
+    "sign_with_google": true,
+    "logo_small_path": "assets/images/logo/orangt.png",
+    "instagram": "https://www.instagram.com/lms_orangt/",
+    "facebook": "https://www.facebook.com/lmsorangt",
+    "twitter": "https://twitter.com/OrangtL",
+    "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
+    "asset_url": "https://mzone-production-b01.s3.ap-southeast-3.amazonaws.com/mobile",
+    "icon_menu_dir": "default/icon_menu",
+    "border_avatar_dir": "default/border_avatar",
+    "border_avatar": [
+      "bronze.svg",
+      "silver.svg",
+      "gold.svg",
+      "platinum.svg"
+    ],
+    "menu": [
+      {
+        "code": "knowledge",
+        "label": "knowledge",
+        "image_svg": "knowledge.svg",
+        "color": "4CAF50",
+        "route": "knowledge",
+        "args": null
+      },
+      {
+        "code": "news",
+        "label": "news",
+        "image_svg": "news.svg",
+        "color": "F44336",
+        "route": "news",
+        "args": null
+      },
+      {
+        "code": "training",
+        "label": "training",
+        "image_svg": "training.svg",
+        "color": "2196F3",
+        "route": "training",
+        "args": null
+      },
+      {
+        "code": "assessment",
+        "label": "assessment",
+        "image_svg": "assessment.svg",
+        "color": "3F51B5",
+        "route": "assessment",
+        "args": null
+      },
+      {
+        "code": "coaching_mentoring",
+        "label": "coaching_mentoring",
+        "image_svg": "coaching_mentoring.svg",
+        "color": "00BCD4",
+        "route": "coaching_mentoring",
+        "args": null
+      },
+      {
+        "code": "expert",
+        "label": "expert",
+        "image_svg": "expert.svg",
+        "color": "F44336",
+        "route": "expert",
+        "args": null
+      },
+      {
+        "code": "daily_activity",
+        "label": "daily_activity",
+        "image_svg": "daily_activity.svg",
+        "color": "9C27B0",
+        "route": "daily_activity",
+        "args": null
+      }
+    ]
+  },
+  {
+    "batch": "1",
+    "code": "tsel dev",
+    "alias": "tsel dev",
+    "name": "TSEL DEV",
+    "host": "ljr-dev.myorangt.com",
+    "valid_to": "9999-01-01",
+    "secure": false,
+    "sign_with_password": true,
+    "sign_with_google": true,
+    "logo_small_path": "assets/images/logo/tsel.png",
+    "instagram": "https://www.instagram.com/lms_orangt/",
+    "facebook": "https://www.facebook.com/lmsorangt",
+    "twitter": "https://twitter.com/OrangtL",
+    "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
+    "asset_url": "https://mzone-production-b01.s3.ap-southeast-3.amazonaws.com/mobile",
+    "icon_menu_dir": "default/icon_menu",
+    "border_avatar_dir": "default/border_avatar",
+    "border_avatar": [
+      "bronze.svg",
+      "silver.svg",
+      "gold.svg",
+      "platinum.svg"
+    ],
+    "menu": [
+      {
+        "code": "knowledge",
+        "label": "knowledge",
+        "image_svg": "knowledge.svg",
+        "color": "4CAF50",
+        "route": "knowledge",
+        "args": null
+      },
+      {
+        "code": "news",
+        "label": "news",
+        "image_svg": "news.svg",
+        "color": "F44336",
+        "route": "news",
+        "args": null
+      },
+      {
+        "code": "content",
+        "label": "content",
+        "image_svg": "content.svg",
+        "color": "4CAF50",
+        "route": "content",
+        "args": null
+      },
+      {
+        "code": "training",
+        "label": "training",
+        "image_svg": "training.svg",
+        "color": "2196F3",
+        "route": "training",
+        "args": null
+      },
+      {
+        "code": "assessment",
+        "label": "assessment",
+        "image_svg": "assessment.svg",
+        "color": "3F51B5",
+        "route": "assessment",
+        "args": null
+      },
+      {
+        "code": "coaching_mentoring",
+        "label": "coaching_mentoring",
+        "image_svg": "coaching_mentoring.svg",
+        "color": "00BCD4",
+        "route": "coaching_mentoring",
+        "args": null
+      },
+      {
+        "code": "expert",
+        "label": "expert",
+        "image_svg": "expert.svg",
+        "color": "F44336",
+        "route": "expert",
+        "args": null
+      },
+      {
+        "code": "daily_activity",
+        "label": "daily_activity",
+        "image_svg": "daily_activity.svg",
+        "color": "9C27B0",
+        "route": "daily_activity",
+        "args": null
+      },
+      {
+        "code": "reward",
+        "label": "reward",
+        "image_svg": "reward.svg",
+        "color": "3F51B5",
+        "route": "reward",
+        "args": null
+      },
+      {
+        "code": "competition",
+        "label": "competition",
+        "image_svg": "competition.svg",
+        "color": "FFEB3B",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "regulation",
+        "label": "regulation",
+        "image_svg": "regulation.svg",
+        "color": "8BC34A",
+        "route": "regulation",
+        "args": null
+      },
+      {
+        "code": "deviation",
+        "label": "deviation",
+        "image_svg": "deviation.svg",
+        "color": "F44336",
+        "route": "deviation",
+        "args": null
+      },
+      {
+        "code": "gratification",
+        "label": "gratification",
+        "image_svg": "deviation.svg",
+        "color": "795548",
+        "route": "gratification",
+        "args": null
+      },
+      {
+        "code": "archive",
+        "label": "archive",
+        "image_svg": "archive.svg",
+        "color": "00BCD4",
+        "route": "archive",
+        "args": null
+      }
+    ]
+  },
+  {
+    "batch": "1",
+    "code": "dev",
+    "alias": "dev",
+    "name": "MZone Tournament",
+    "host": "dev.mzonetour.com",
+    "valid_to": "9999-01-01",
+    "secure": false,
+    "sign_with_password": true,
+    "sign_with_google": true,
+    "logo_small_path": "assets/images/logo.png",
+    "instagram": "https://www.instagram.com/lms_orangt/",
+    "facebook": "https://www.facebook.com/lmsorangt",
+    "twitter": "https://twitter.com/OrangtL",
+    "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
+    "asset_url": "https://mzone-production-b01.s3.ap-southeast-3.amazonaws.com/mobile",
+    "icon_menu_dir": "default/icon_menu",
+    "border_avatar_dir": "default/border_avatar",
+    "menu": [
+      {
+        "code": "competition",
+        "label": "tournament",
+        "image_svg": "competition.svg",
+        "color": "FFEB3B",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "learning",
+        "label": "learning",
+        "image_svg": "training.svg",
+        "color": "2196F3",
+        "route": "learning",
+        "args": null
+      },
+      {
+        "code": "event",
+        "label": "event",
+        "image_svg": "event.svg",
+        "color": "00BCD4",
+        "route": "event",
+        "args": null
+      },
+      {
+        "code": "top_up",
+        "label": "top_up_bills",
+        "image_svg": "invoice.svg",
+        "color": "009688",
+        "route": "job_vacancy",
+        "args": null
+      },
+      {
+        "code": "shop",
+        "label": "shop",
+        "image_svg": "shop.svg",
+        "color": "3F51B5",
+        "route": "web_view",
+        "args": {
+          "url": "https://pasargames.id/"
+        }
+      },
+      {
+        "code": "news",
+        "label": "news",
+        "image_svg": "news.svg",
+        "color": "F44336",
+        "route": "web_view",
+        "args": {
+          "url": "https://www.dens.tv/densplay"
+        }
+      },
+      {
+        "code": "content",
+        "label": "content",
+        "image_svg": "content.svg",
+        "color": "4CAF50",
+        "route": "content",
+        "args": null
+      },
+      {
+        "code": "playmates",
+        "label": "caster",
+        "image_svg": "playmates.svg",
+        "color": "8BC34A",
+        "route": "playmates",
+        "args": null
+      },
+      {
+        "code": "expert",
+        "label": "expert",
+        "image_svg": "expert.svg",
+        "color": "F44336",
+        "route": "expert",
+        "args": null
+      },
+      {
+        "code": "daily_activity",
+        "label": "daily_activity",
+        "image_svg": "daily_activity.svg",
+        "color": "9C27B0",
+        "route": "daily_activity",
+        "args": null
+      },
+      {
+        "code": "regulation",
+        "label": "regulation",
+        "image_svg": "regulation.svg",
+        "color": "8BC34A",
+        "route": "regulation",
+        "args": null
+      },
+      {
+        "code": "deviation",
+        "label": "deviation",
+        "image_svg": "deviation.svg",
+        "color": "F44336",
+        "route": "deviation",
+        "args": null
+      },
+      {
+        "code": "gratification",
+        "label": "gratification",
+        "image_svg": "gratification.svg",
+        "color": "795548",
+        "route": "gratification",
+        "args": null
+      },
+      {
+        "code": "archive",
+        "label": "archive",
+        "image_svg": "archive.svg",
+        "color": "00BCD4",
+        "route": "archive",
+        "args": null
+      }
+    ]
+  },
+  {
+    "batch": "1",
+    "code": "prod",
+    "alias": "prod",
+    "name": "MZone Tournament",
+    "host": "prod.mzonetour.com",
+    "valid_to": "9999-01-01",
+    "secure": false,
+    "sign_with_password": true,
+    "sign_with_google": true,
+    "logo_small_path": "assets/images/logo.png",
+    "instagram": "https://www.instagram.com/lms_orangt/",
+    "facebook": "https://www.facebook.com/lmsorangt",
+    "twitter": "https://twitter.com/OrangtL",
+    "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
+    "asset_url": "https://mzone-production-b01.s3.ap-southeast-3.amazonaws.com/mobile",
+    "icon_menu_dir": "default/icon_menu",
+    "border_avatar_dir": "default/border_avatar",
+    "border_avatar": [
+      "bronze.svg",
+      "silver.svg",
+      "gold.svg",
+      "platinum.svg"
+    ],
+    "menu": [
+      {
+        "code": "competition",
+        "label": "tournament",
+        "image_svg": "competition.svg",
+        "color": "FFEB3B",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "learning",
+        "label": "learning",
+        "image_svg": "training.svg",
+        "color": "2196F3",
+        "route": "learning",
+        "args": null
+      },
+      {
+        "code": "event",
+        "label": "event",
+        "image_svg": "event.svg",
+        "color": "00BCD4",
+        "route": "event",
+        "args": null
+      },
+      {
+        "code": "top_up",
+        "label": "top_up_bills",
+        "image_svg": "invoice.svg",
+        "color": "009688",
+        "route": "job_vacancy",
+        "args": null
+      },
+      {
+        "code": "shop",
+        "label": "shop",
+        "image_svg": "shop.svg",
+        "color": "3F51B5",
+        "route": "web_view",
+        "args": {
+          "url": "https://pasargames.id/"
+        }
+      },
+      {
+        "code": "news",
+        "label": "news",
+        "image_svg": "news.svg",
+        "color": "F44336",
+        "route": "web_view",
+        "args": {
+          "url": "https://www.dens.tv/densplay"
+        }
+      },
+      {
+        "code": "content",
+        "label": "content",
+        "image_svg": "content.svg",
+        "color": "4CAF50",
+        "route": "content",
+        "args": null
+      },
+      {
+        "code": "playmates",
+        "label": "caster",
+        "image_svg": "playmates.svg",
+        "color": "8BC34A",
+        "route": "playmates",
+        "args": null
+      },
+      {
+        "code": "expert",
+        "label": "expert",
+        "image_svg": "expert.svg",
+        "color": "F44336",
+        "route": "expert",
+        "args": null
+      },
+      {
+        "code": "daily_activity",
+        "label": "daily_activity",
+        "image_svg": "daily_activity.svg",
+        "color": "9C27B0",
+        "route": "daily_activity",
+        "args": null
+      },
+      {
+        "code": "regulation",
+        "label": "regulation",
+        "image_svg": "regulation.svg",
+        "color": "8BC34A",
+        "route": "regulation",
+        "args": null
+      },
+      {
+        "code": "deviation",
+        "label": "deviation",
+        "image_svg": "deviation.svg",
+        "color": "F44336",
+        "route": "deviation",
+        "args": null
+      },
+      {
+        "code": "gratification",
+        "label": "gratification",
+        "image_svg": "gratification.svg",
+        "color": "795548",
+        "route": "gratification",
+        "args": null
+      },
+      {
+        "code": "archive",
+        "label": "archive",
+        "image_svg": "archive.svg",
+        "color": "00BCD4",
+        "route": "archive",
+        "args": null
+      }
+    ]
+  }
+]
