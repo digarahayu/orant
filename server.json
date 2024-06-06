@@ -1,6 +1,6 @@
 [
   {
-    "batch": "1",
+    "batch": "2",
     "code": "dev local",
     "alias": "local",
     "name": "Localhost",
@@ -134,6 +134,40 @@
         "image_svg": "archive.svg",
         "color": "00BCD4",
         "route": "archive",
+        "args": null
+      },
+      {
+        "code": "event",
+        "label": "event",
+        "image_svg": "event.svg",
+        "color": "00BCD4",
+        "route": "event",
+        "args": null
+      },
+      {
+        "code": "top_up",
+        "label": "top_up_bills",
+        "image_svg": "invoice.svg",
+        "color": "009688",
+        "route": "job_vacancy",
+        "args": null
+      },
+      {
+        "code": "shop",
+        "label": "shop",
+        "image_svg": "shop.svg",
+        "color": "3F51B5",
+        "route": "web_view",
+        "args": {
+          "url": "https://pasargames.id/"
+        }
+      },
+      {
+        "code": "playmates",
+        "label": "caster",
+        "image_svg": "playmates.svg",
+        "color": "8BC34A",
+        "route": "playmates",
         "args": null
       }
     ]
