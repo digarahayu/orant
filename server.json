@@ -123,7 +123,7 @@
       {
         "code": "gratification",
         "label": "gratification",
-        "image_svg": "deviation.svg",
+        "image_svg": "gratification.svg",
         "color": "795548",
         "route": "gratification",
         "args": null
@@ -254,7 +254,7 @@
       {
         "code": "gratification",
         "label": "gratification",
-        "image_svg": "deviation.svg",
+        "image_svg": "gratification.svg",
         "color": "795548",
         "route": "gratification",
         "args": null
@@ -476,7 +476,7 @@
       {
         "code": "gratification",
         "label": "gratification",
-        "image_svg": "deviation.svg",
+        "image_svg": "gratification.svg",
         "color": "795548",
         "route": "gratification",
         "args": null
