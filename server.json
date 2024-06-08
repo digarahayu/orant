@@ -56,6 +56,21 @@
       {
         "show_all": false,
         "state": true,
+        "key": "course_future_skill_need",
+        "type": "course_future_skill_need",
+        "title": "title_course_future_skill_need",
+        "subtitle": "subtitle_course_future_skill_need",
+        "url": "/api/v5/learning/content",
+        "queryString": {
+          "future_skill_need": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
         "key": "course_for_you",
         "type": "course_for_you",
         "title": "title_course_for_you",
