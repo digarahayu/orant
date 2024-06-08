@@ -66,7 +66,7 @@
           "is_featured": "1",
           "sort_by": "MOST_RECENT"
         },
-        "height": 185,
+        "height": 200,
         "width": 200
       },
       {
@@ -81,7 +81,22 @@
           "is_featured": "1",
           "sort_by": "MOST_RECENT"
         },
-        "height": 185,
+        "height": 200,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "competition",
+        "type": "competition",
+        "title": "title_featured_competition",
+        "subtitle": "subtitle_featured_competition",
+        "url": "/api/v5/learning/competition",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 225,
         "width": 200
       }
     ],
