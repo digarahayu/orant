@@ -38,6 +38,51 @@
         },
         "height": 225,
         "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training",
+        "type": "training",
+        "title": "title_featured_training",
+        "subtitle": "subtitle_featured_training",
+        "url": "/api/v5/learning/training",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "knowledge",
+        "type": "knowledge",
+        "title": "title_featured_knowledge",
+        "subtitle": "subtitle_featured_knowledge",
+        "url": "/api/v5/learning/knowledge",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 185,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "news",
+        "type": "news",
+        "title": "title_featured_news",
+        "subtitle": "subtitle_featured_news",
+        "url": "/api/v5/learning/news",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 185,
+        "width": 200
       }
     ],
     "menu": [
