@@ -41,6 +41,21 @@
       {
         "show_all": false,
         "state": true,
+        "key": "training_for_you",
+        "type": "training_for_you",
+        "title": "title_training_for_you",
+        "subtitle": "subtitle_training_for_you",
+        "url": "/api/v5/learning/training",
+        "queryString": {
+          "for_you": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
         "key": "course_for_you",
         "type": "course_for_you",
         "title": "title_course_for_you",
