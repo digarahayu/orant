@@ -42,7 +42,7 @@
       },
       {
         "code": "content",
-        "label": "content",
+        "label": "course",
         "image_svg": "content.svg",
         "color": "4CAF50",
         "route": "content",
@@ -215,7 +215,7 @@
       },
       {
         "code": "content",
-        "label": "content",
+        "label": "course",
         "image_svg": "content.svg",
         "color": "E91E63",
         "route": "content",
