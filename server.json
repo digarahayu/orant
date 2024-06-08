@@ -127,6 +127,21 @@
         },
         "height": 225,
         "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "group",
+        "type": "group",
+        "title": "title_offical_community",
+        "subtitle": "subtitle_offical_community",
+        "url": "/api/v5/learning/group",
+        "queryString": {
+          "type": "1",
+          "is_featured": "1"
+        },
+        "height": 140,
+        "width": 125
       }
     ],
     "menu": [
