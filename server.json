@@ -27,6 +27,20 @@
       {
         "show_all": false,
         "state": true,
+        "key": "expert_session",
+        "type": "expert_session",
+        "title": "title_expert_session",
+        "subtitle": "subtitle_expert_session",
+        "url": "/api/v5/learning/expert/session",
+        "queryString": {
+          "filter_by": "ONGOING"
+        },
+        "height": 160,
+        "width": 145
+      },
+      {
+        "show_all": false,
+        "state": true,
         "key": "training_participant",
         "type": "training_participant",
         "title": "title_training_end_soon",
