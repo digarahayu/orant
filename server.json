@@ -1,6 +1,6 @@
 [
   {
-    "batch": "1",
+    "batch": "2",
     "code": "dev local",
     "alias": "local",
     "name": "Localhost",
@@ -15,6 +15,9 @@
     "twitter": "https://twitter.com/OrangtL",
     "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
     "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
+    "privacy_policy_url": "https://myorangt.com/privacy-policy",
+    "tos_url": "https://myorangt.com/terms-of-service",
+    "about_url": "https://myorangt.com/why-orangt",
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "border_avatar": [
@@ -239,14 +242,6 @@
         "args": null
       },
       {
-        "code": "reward",
-        "label": "reward",
-        "image_svg": "reward.svg",
-        "color": "3F51B5",
-        "route": "reward",
-        "args": null
-      },
-      {
         "code": "competition",
         "label": "competition",
         "image_svg": "competition.svg",
@@ -323,7 +318,7 @@
     ]
   },
   {
-    "batch": "1",
+    "batch": "2",
     "code": "sps dev",
     "alias": "sps dev",
     "name": "SPS DEV",
@@ -338,6 +333,9 @@
     "twitter": "https://twitter.com/OrangtL",
     "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
     "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
+    "privacy_policy_url": "https://myorangt.com/privacy-policy",
+    "tos_url": "https://myorangt.com/terms-of-service",
+    "about_url": "https://myorangt.com/why-orangt",
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "border_avatar": [
@@ -562,14 +560,6 @@
         "args": null
       },
       {
-        "code": "reward",
-        "label": "reward",
-        "image_svg": "reward.svg",
-        "color": "3F51B5",
-        "route": "reward",
-        "args": null
-      },
-      {
         "code": "competition",
         "label": "competition",
         "image_svg": "competition.svg",
@@ -646,7 +636,7 @@
     ]
   },
   {
-    "batch": "1",
+    "batch": "2",
     "code": "ljr dev",
     "alias": "ljr dev",
     "name": "LJR DEV",
@@ -661,6 +651,9 @@
     "twitter": "https://twitter.com/OrangtL",
     "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
     "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
+    "privacy_policy_url": "https://myorangt.com/privacy-policy",
+    "tos_url": "https://myorangt.com/terms-of-service",
+    "about_url": "https://myorangt.com/why-orangt",
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "border_avatar": [
@@ -838,19 +831,11 @@
         "color": "9C27B0",
         "route": "daily_activity",
         "args": null
-      },
-      {
-        "code": "reward",
-        "label": "reward",
-        "image_svg": "reward.svg",
-        "color": "3F51B5",
-        "route": "reward",
-        "args": null
       }
     ]
   },
   {
-    "batch": "1",
+    "batch": "2",
     "code": "dev",
     "alias": "dev",
     "name": "MZone Tournament",
@@ -865,6 +850,9 @@
     "twitter": "https://twitter.com/OrangtL",
     "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
     "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
+    "privacy_policy_url": "https://myorangt.com/privacy-policy",
+    "tos_url": "https://myorangt.com/terms-of-service",
+    "about_url": "https://myorangt.com/why-orangt",
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "border_avatar": [
@@ -993,7 +981,7 @@
     ]
   },
   {
-    "batch": "1",
+    "batch": "2",
     "code": "prod",
     "alias": "prod",
     "name": "MZone Tournament",
@@ -1008,6 +996,9 @@
     "twitter": "https://twitter.com/OrangtL",
     "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
     "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
+    "privacy_policy_url": "https://myorangt.com/privacy-policy",
+    "tos_url": "https://myorangt.com/terms-of-service",
+    "about_url": "https://myorangt.com/why-orangt",
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "border_avatar": [
