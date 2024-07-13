@@ -1,12 +1,13 @@
 [
   {
-    "batch": "2",
+    "batch": "1",
     "code": "dev local",
     "alias": "local",
     "name": "Localhost",
     "host": "orangt.dev",
     "valid_to": "9999-01-01",
     "secure": false,
+    "ai": true,
     "sign_with_password": true,
     "sign_with_google": true,
     "logo_small_path": "assets/images/logo/orangt.png",
@@ -318,13 +319,14 @@
     ]
   },
   {
-    "batch": "2",
+    "batch": "1",
     "code": "sps dev",
     "alias": "sps dev",
     "name": "SPS DEV",
     "host": "sps-dev.myorangt.com",
     "valid_to": "9999-01-01",
     "secure": false,
+    "ai": true,
     "sign_with_password": true,
     "sign_with_google": true,
     "logo_small_path": "assets/images/logo/orangt.png",
@@ -636,13 +638,14 @@
     ]
   },
   {
-    "batch": "2",
+    "batch": "1",
     "code": "ljr dev",
     "alias": "ljr dev",
     "name": "LJR DEV",
     "host": "ljr-dev.myorangt.com",
     "valid_to": "9999-01-01",
     "secure": false,
+    "ai": false,
     "sign_with_password": true,
     "sign_with_google": true,
     "logo_small_path": "assets/images/logo/orangt.png",
@@ -835,13 +838,14 @@
     ]
   },
   {
-    "batch": "2",
+    "batch": "1",
     "code": "dev",
     "alias": "dev",
     "name": "MZone Tournament",
     "host": "dev.mzonetour.com",
     "valid_to": "9999-01-01",
     "secure": false,
+    "ai": false,
     "sign_with_password": true,
     "sign_with_google": true,
     "logo_small_path": "assets/images/logo.png",
@@ -981,13 +985,14 @@
     ]
   },
   {
-    "batch": "2",
+    "batch": "1",
     "code": "prod",
     "alias": "prod",
     "name": "MZone Tournament",
     "host": "prod.mzonetour.com",
     "valid_to": "9999-01-01",
     "secure": false,
+    "ai": false,
     "sign_with_password": true,
     "sign_with_google": true,
     "logo_small_path": "assets/images/logo.png",
