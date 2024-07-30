@@ -180,6 +180,14 @@
     ],
     "menu": [
       {
+        "code": "pending_action",
+        "label": "pending_action",
+        "image_svg": "pending_action.svg",
+        "color": "4CAF50",
+        "route": "pending_action",
+        "args": null
+      },
+      {
         "code": "knowledge",
         "label": "knowledge",
         "image_svg": "knowledge.svg",
@@ -500,6 +508,14 @@
     ],
     "menu": [
       {
+        "code": "pending_action",
+        "label": "pending_action",
+        "image_svg": "pending_action.svg",
+        "color": "4CAF50",
+        "route": "pending_action",
+        "args": null
+      },
+      {
         "code": "knowledge",
         "label": "knowledge",
         "image_svg": "knowledge.svg",
@@ -774,6 +790,14 @@
       }
     ],
     "menu": [
+      {
+        "code": "pending_action",
+        "label": "pending_action",
+        "image_svg": "pending_action.svg",
+        "color": "4CAF50",
+        "route": "pending_action",
+        "args": null
+      },
       {
         "code": "knowledge",
         "label": "knowledge",
