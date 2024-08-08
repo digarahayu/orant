@@ -1,6 +1,6 @@
 [
   {
-    "batch": "1",
+    "batch": "2",
     "code": "dev local",
     "alias": "local",
     "name": "Localhost",
@@ -329,7 +329,7 @@
     ]
   },
   {
-    "batch": "1",
+    "batch": "2",
     "code": "sps dev",
     "alias": "sps dev",
     "name": "SPS DEV",
@@ -658,7 +658,7 @@
     ]
   },
   {
-    "batch": "1",
+    "batch": "2",
     "code": "ljr dev",
     "alias": "ljr dev",
     "name": "LJR DEV",
@@ -868,7 +868,7 @@
     ]
   },
   {
-    "batch": "1",
+    "batch": "2",
     "code": "dev",
     "alias": "dev",
     "name": "MZone Tournament",
@@ -1017,7 +1017,7 @@
     ]
   },
   {
-    "batch": "1",
+    "batch": "2",
     "code": "prod",
     "alias": "prod",
     "name": "MZone Tournament",
