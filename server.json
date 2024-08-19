@@ -1,6 +1,6 @@
 [
   {
-    "batch": "2",
+    "batch": "3",
     "code": "dev local",
     "alias": "local",
     "name": "Localhost",
@@ -15,6 +15,7 @@
     "sign_with_microsoft": true,
     "force_open_setting": true,
     "directly_request_location": true,
+    "custom_message_permission": true,
     "logo_small_path": "assets/images/logo/orangt.png",
     "instagram": "https://www.instagram.com/lms_orangt/",
     "facebook": "https://www.facebook.com/lmsorangt",
@@ -334,7 +335,7 @@
     ]
   },
   {
-    "batch": "2",
+    "batch": "3",
     "code": "sps dev",
     "alias": "sps dev",
     "name": "SPS DEV",
@@ -349,6 +350,7 @@
     "sign_with_microsoft": true,
     "force_open_setting": true,
     "directly_request_location": true,
+    "custom_message_permission": true,
     "logo_small_path": "assets/images/logo/orangt.png",
     "instagram": "https://www.instagram.com/lms_orangt/",
     "facebook": "https://www.facebook.com/lmsorangt",
@@ -668,7 +670,7 @@
     ]
   },
   {
-    "batch": "2",
+    "batch": "3",
     "code": "ljr test",
     "alias": "ljr test",
     "name": "LJR TEST",
@@ -683,6 +685,7 @@
     "sign_with_microsoft": true,
     "force_open_setting": true,
     "directly_request_location": true,
+    "custom_message_permission": true,
     "logo_small_path": "assets/images/logo/orangt.png",
     "instagram": "https://www.instagram.com/lms_orangt/",
     "facebook": "https://www.facebook.com/lmsorangt",
@@ -883,7 +886,7 @@
     ]
   },
   {
-    "batch": "2",
+    "batch": "3",
     "code": "ljr dev",
     "alias": "ljr dev",
     "name": "LJR DEV",
@@ -898,6 +901,7 @@
     "sign_with_microsoft": true,
     "force_open_setting": false,
     "directly_request_location": false,
+    "custom_message_permission": false,
     "logo_small_path": "assets/images/logo/orangt.png",
     "instagram": "https://www.instagram.com/lms_orangt/",
     "facebook": "https://www.facebook.com/lmsorangt",
@@ -1098,7 +1102,7 @@
     ]
   },
   {
-    "batch": "2",
+    "batch": "3",
     "code": "fithub dev",
     "alias": "fithub dev",
     "name": "FITHUB DEV",
@@ -1113,6 +1117,7 @@
     "sign_with_microsoft": true,
     "force_open_setting": true,
     "directly_request_location": true,
+    "custom_message_permission": true,
     "logo_small_path": "assets/images/logo/fithub.png",
     "instagram": "https://www.instagram.com/lms_orangt/",
     "facebook": "https://www.facebook.com/lmsorangt",
@@ -1313,7 +1318,7 @@
     ]
   },
   {
-    "batch": "2",
+    "batch": "3",
     "code": "dev",
     "alias": "dev",
     "name": "MZone Tournament",
@@ -1328,6 +1333,7 @@
     "sign_with_microsoft": true,
     "force_open_setting": true,
     "directly_request_location": true,
+    "custom_message_permission": true,
     "logo_small_path": "assets/images/logo.png",
     "instagram": "https://www.instagram.com/lms_orangt/",
     "facebook": "https://www.facebook.com/lmsorangt",
@@ -1467,7 +1473,7 @@
     ]
   },
   {
-    "batch": "2",
+    "batch": "3",
     "code": "prod",
     "alias": "prod",
     "name": "MZone Tournament",
@@ -1482,6 +1488,7 @@
     "sign_with_microsoft": true,
     "force_open_setting": true,
     "directly_request_location": true,
+    "custom_message_permission": true,
     "logo_small_path": "assets/images/logo.png",
     "instagram": "https://www.instagram.com/lms_orangt/",
     "facebook": "https://www.facebook.com/lmsorangt",
