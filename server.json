@@ -1,6 +1,6 @@
 [
   {
-    "batch": "3",
+    "batch": "4",
     "code": "dev local",
     "alias": "local",
     "name": "Localhost",
@@ -31,6 +31,12 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
+    "watermark": [
+      255,
+      0,
+      0,
+      100
+    ],
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
@@ -374,6 +380,12 @@
       "gold.svg",
       "platinum.svg"
     ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
+    ],
     "featured_home": [
       {
         "show_all": false,
@@ -705,6 +717,12 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
+    "watermark": [
+      255,
+      0,
+      0,
+      100
+    ],
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
@@ -928,6 +946,12 @@
       "silver.svg",
       "gold.svg",
       "platinum.svg"
+    ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
     ],
     "featured_home": [
       {
@@ -1252,6 +1276,12 @@
         "width": 200
       }
     ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
+    ],
     "menu": [
       {
         "code": "pending_action",
@@ -1364,6 +1394,12 @@
       "silver.svg",
       "gold.svg",
       "platinum.svg"
+    ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
     ],
     "featured_home": [
       {
@@ -1583,6 +1619,12 @@
       "gold.svg",
       "platinum.svg"
     ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
+    ],
     "menu": [
       {
         "code": "competition",
@@ -1739,6 +1781,12 @@
       "silver.svg",
       "gold.svg",
       "platinum.svg"
+    ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
     ],
     "menu": [
       {
