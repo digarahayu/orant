@@ -31,7 +31,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
-    "max_file_size": 5242880,
+    "max_file_size": 52428800,
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -389,7 +389,7 @@
       "gold.svg",
       "platinum.svg"
     ],
-    "max_file_size": 5242880,
+    "max_file_size": 52428800,
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -735,7 +735,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
-    "max_file_size": 5242880,
+    "max_file_size": 52428800,
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -974,7 +974,7 @@
       "gold.svg",
       "platinum.svg"
     ],
-    "max_file_size": 5242880,
+    "max_file_size": 52428800,
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -1312,7 +1312,7 @@
         "width": 200
       }
     ],
-    "max_file_size": 5242880,
+    "max_file_size": 52428800,
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -1545,7 +1545,7 @@
         "width": 200
       }
     ],
-    "max_file_size": 5242880,
+    "max_file_size": 52428800,
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -1673,7 +1673,7 @@
       "gold.svg",
       "platinum.svg"
     ],
-    "max_file_size": 5242880,
+    "max_file_size": 52428800,
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -1906,7 +1906,7 @@
       "gold.svg",
       "platinum.svg"
     ],
-    "max_file_size": 5242880,
+    "max_file_size": 52428800,
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -2078,7 +2078,7 @@
       "gold.svg",
       "platinum.svg"
     ],
-    "max_file_size": 5242880,
+    "max_file_size": 52428800,
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -2355,7 +2355,7 @@
         "width": 200
       }
     ],
-    "max_file_size": 5242880,
+    "max_file_size": 52428800,
     "allowed_media_task": [
       "pdf",
       "docx",
