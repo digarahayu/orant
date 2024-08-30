@@ -1,6 +1,6 @@
 [
   {
-    "batch": "4",
+    "batch": "5",
     "code": "dev local",
     "alias": "local",
     "name": "Localhost",
@@ -31,6 +31,14 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
+    "allowed_media_task": [
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
     "watermark": [
       255,
       0,
@@ -343,7 +351,7 @@
     ]
   },
   {
-    "batch": "3",
+    "batch": "5",
     "code": "sps dev",
     "alias": "sps dev",
     "name": "SPS DEV",
@@ -380,6 +388,14 @@
       "gold.svg",
       "platinum.svg"
     ],
+    "allowed_media_task": [
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
     "watermark": [
       255,
       0,
@@ -686,7 +702,7 @@
     ]
   },
   {
-    "batch": "3",
+    "batch": "5",
     "code": "ljr test",
     "alias": "ljr test",
     "name": "LJR TEST",
@@ -717,6 +733,14 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
+    "allowed_media_task": [
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
     "watermark": [
       255,
       0,
@@ -910,7 +934,7 @@
     ]
   },
   {
-    "batch": "3",
+    "batch": "5",
     "code": "ljr dev",
     "alias": "ljr dev",
     "name": "LJR DEV",
@@ -947,6 +971,14 @@
       "gold.svg",
       "platinum.svg"
     ],
+    "allowed_media_task": [
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
     "watermark": [
       255,
       0,
@@ -1134,7 +1166,7 @@
     ]
   },
   {
-    "batch": "3",
+    "batch": "5",
     "code": "fithub dev",
     "alias": "fithub dev",
     "name": "FITHUB DEV",
@@ -1276,6 +1308,14 @@
         "width": 200
       }
     ],
+    "allowed_media_task": [
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
     "watermark": [
       255,
       0,
@@ -1358,7 +1398,7 @@
     ]
   },
   {
-    "batch": "3",
+    "batch": "5",
     "code": "fit hub academy",
     "alias": "fit hub academy",
     "name": "FITHUB",
@@ -1500,6 +1540,14 @@
         "width": 200
       }
     ],
+    "allowed_media_task": [
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
     "watermark": [
       255,
       0,
@@ -1582,7 +1630,7 @@
     ]
   },
   {
-    "batch": "3",
+    "batch": "5",
     "code": "orangp dev",
     "alias": "orangp dev",
     "name": "ORANGP DEV",
@@ -1618,6 +1666,14 @@
       "silver.svg",
       "gold.svg",
       "platinum.svg"
+    ],
+    "allowed_media_task": [
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
     ],
     "watermark": [
       255,
@@ -1806,7 +1862,7 @@
     ]
   },
   {
-    "batch": "3",
+    "batch": "5",
     "code": "dev",
     "alias": "dev",
     "name": "MZone Tournament",
@@ -1843,6 +1899,14 @@
       "gold.svg",
       "platinum.svg"
     ],
+    "allowed_media_task": [
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
     "watermark": [
       255,
       0,
@@ -1969,7 +2033,7 @@
     ]
   },
   {
-    "batch": "3",
+    "batch": "5",
     "code": "prod",
     "alias": "prod",
     "name": "MZone Tournament",
@@ -2006,6 +2070,14 @@
       "gold.svg",
       "platinum.svg"
     ],
+    "allowed_media_task": [
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
     "watermark": [
       255,
       0,
@@ -2132,7 +2204,7 @@
     ]
   },
   {
-    "batch": "3",
+    "batch": "5",
     "code": "ljr",
     "alias": "ljr",
     "name": "LJR",
@@ -2273,6 +2345,14 @@
         "height": 200,
         "width": 200
       }
+    ],
+    "allowed_media_task": [
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
     ],
     "watermark": [
       255,
