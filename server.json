@@ -32,6 +32,11 @@
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
     "max_file_size": 52428800,
+    "primary_color": "3F51B5",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -390,6 +395,11 @@
       "platinum.svg"
     ],
     "max_file_size": 52428800,
+    "primary_color": "3F51B5",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -736,6 +746,11 @@
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
     "max_file_size": 52428800,
+    "primary_color": "3F51B5",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -975,6 +990,11 @@
       "platinum.svg"
     ],
     "max_file_size": 52428800,
+    "primary_color": "3F51B5",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -1313,6 +1333,11 @@
       }
     ],
     "max_file_size": 52428800,
+    "primary_color": "1ecad3",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -1546,6 +1571,11 @@
       }
     ],
     "max_file_size": 52428800,
+    "primary_color": "1ecad3",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -1674,6 +1704,11 @@
       "platinum.svg"
     ],
     "max_file_size": 52428800,
+    "primary_color": "3F51B5",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -1907,6 +1942,11 @@
       "platinum.svg"
     ],
     "max_file_size": 52428800,
+    "primary_color": "3F51B5",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -2079,6 +2119,11 @@
       "platinum.svg"
     ],
     "max_file_size": 52428800,
+    "primary_color": "3F51B5",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_media_task": [
       "pdf",
       "docx",
@@ -2356,6 +2401,11 @@
       }
     ],
     "max_file_size": 52428800,
+    "primary_color": "3F51B5",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_media_task": [
       "pdf",
       "docx",
