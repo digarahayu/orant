@@ -31,6 +31,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
+    "logo_dark": "logo/orangt.png",
     "max_file_size": 52428800,
     "primary_color": "3F51B5",
     "splash_gradient": [
@@ -388,6 +389,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
+    "logo_dark": "logo/orangt.png",
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
@@ -745,6 +747,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
+    "logo_dark": "logo/orangt.png",
     "max_file_size": 52428800,
     "primary_color": "3F51B5",
     "splash_gradient": [
@@ -983,6 +986,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
+    "logo_dark": "logo/orangt.png",
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
@@ -1221,6 +1225,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/fithub.png",
+    "logo_dark": "logo/fithub_dark.png",
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
@@ -1459,6 +1464,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/fithub.png",
+    "logo_dark": "logo/fithub_dark.png",
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
@@ -1697,6 +1703,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
+    "logo_dark": "logo/orangt.png",
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
@@ -1935,6 +1942,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/viral.png",
+    "logo_dark": "logo/viral.png",
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
@@ -2173,6 +2181,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/mzone.png",
+    "logo_dark": "logo/mzone.png",
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
@@ -2350,6 +2359,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/mzone.png",
+    "logo_dark": "logo/mzone.png",
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
@@ -2527,6 +2537,7 @@
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/orangt.png",
+    "logo_dark": "logo/orangt.png",
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
