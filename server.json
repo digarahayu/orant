@@ -3016,10 +3016,10 @@
       }
     ],
     "max_file_size": 52428800,
-    "primary_color": "1ecad3",
+    "primary_color": "2196F3",
     "splash_gradient": [
-      "1bc6ce",
-      "18515c"
+      "2196F3",
+      "1565C0"
     ],
     "allowed_media_task": [
       "pdf",
