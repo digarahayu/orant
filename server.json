@@ -298,7 +298,7 @@
         "image_svg": "competition.svg",
         "image": "competition.png",
         "color": "FFEB3B",
-        "route": "community",
+        "route": "group",
         "args": null
       },
       {
