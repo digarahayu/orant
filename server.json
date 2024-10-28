@@ -293,6 +293,15 @@
         "args": null
       },
       {
+        "code": "community",
+        "label": "community",
+        "image_svg": "competition.svg",
+        "image": "competition.png",
+        "color": "FFEB3B",
+        "route": "community",
+        "args": null
+      },
+      {
         "code": "competition",
         "label": "competition",
         "image_svg": "competition.svg",
