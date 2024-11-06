@@ -1028,7 +1028,7 @@
     "secure": false,
     "google_map": false,
     "ai": false,
-    "btc": true,
+    "btc": false,
     "sign_with_password": true,
     "sign_with_google": true,
     "sign_with_microsoft": true,
