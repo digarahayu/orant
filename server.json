@@ -3175,7 +3175,7 @@
     "secure": true,
     "google_map": false,
     "ai": false,
-    "btc": false,
+    "btc": true,
     "sign_with_password": true,
     "sign_with_google": true,
     "sign_with_microsoft": true,
