@@ -2921,7 +2921,7 @@
     "host": "wika-dev.myorangt.com",
     "valid_to": "9999-01-01",
     "show_case": 1,
-    "secure": true,
+    "secure": false,
     "google_map": false,
     "ai": false,
     "btc": false,
