@@ -213,13 +213,6 @@
     ],
     "menu_account": [
       {
-        "code": "purchase",
-        "label": "purchase",
-        "symbol_icon": "0xe54c",
-        "route": "purchase",
-        "args": null
-      },
-      {
         "code": "training_external",
         "label": "training_external",
         "symbol_icon": "0xeb04",
@@ -231,6 +224,13 @@
         "label": "teaching_room",
         "symbol_icon": "0xe71b",
         "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
         "args": null
       },
       {
