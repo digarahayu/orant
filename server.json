@@ -650,6 +650,57 @@
         "width": 125
       }
     ],
+    "menu_account": [
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
+    ],
     "menu": [
       {
         "code": "pending_action",
@@ -1251,13 +1302,6 @@
         "args": null
       },
       {
-        "code": "group",
-        "label": "community",
-        "symbol_icon": "0xea21",
-        "route": "group",
-        "args": null
-      },
-      {
         "code": "insight",
         "label": "insight",
         "symbol_icon": "0xe90f",
@@ -1537,6 +1581,50 @@
       0,
       100
     ],
+    "menu_account": [
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
+    ],
     "menu": [
       {
         "code": "pending_action",
@@ -1788,6 +1876,50 @@
       0,
       100
     ],
+    "menu_account": [
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
+    ],
     "menu": [
       {
         "code": "pending_action",
@@ -2037,6 +2169,43 @@
         },
         "height": 200,
         "width": 200
+      }
+    ],
+    "menu_account": [
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
       }
     ],
     "menu": [
@@ -2290,6 +2459,57 @@
       0,
       100
     ],
+    "menu_account": [
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
+    ],
     "menu": [
       {
         "code": "pending_action",
@@ -2435,6 +2655,57 @@
       0,
       0,
       100
+    ],
+    "menu_account": [
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
     ],
     "menu": [
       {
@@ -2630,6 +2901,57 @@
       0,
       0,
       100
+    ],
+    "menu_account": [
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
     ],
     "menu": [
       {
@@ -2931,6 +3253,57 @@
       0,
       100
     ],
+    "menu_account": [
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
+    ],
     "menu": [
       {
         "code": "pending_action",
@@ -3181,6 +3554,57 @@
       0,
       0,
       100
+    ],
+    "menu_account": [
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
     ],
     "menu": [
       {
@@ -3433,6 +3857,57 @@
       0,
       100
     ],
+    "menu_account": [
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
+    ],
     "menu": [
       {
         "code": "pending_action",
@@ -3683,6 +4158,64 @@
       0,
       0,
       100
+    ],
+    "menu_account": [
+      {
+        "code": "purchase",
+        "label": "purchase",
+        "symbol_icon": "0xe54c",
+        "route": "purchase",
+        "args": null
+      },
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
     ],
     "menu": [
       {
