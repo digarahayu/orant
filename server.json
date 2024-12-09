@@ -3994,6 +3994,308 @@
   },
   {
     "batch": "6",
+    "code": "wikademy",
+    "alias": "wikademy",
+    "name": "WIKADEMY",
+    "host": "wikademy.wika.co.id",
+    "valid_to": "9999-01-01",
+    "show_case": 1,
+    "secure": false,
+    "google_map": false,
+    "ai": false,
+    "btc": false,
+    "sign_with_password": true,
+    "sign_with_google": true,
+    "sign_with_microsoft": true,
+    "force_open_setting": true,
+    "directly_request_location": true,
+    "custom_message_permission": true,
+    "logo_small_path": "assets/images/logo/wika.png",
+    "playstore": "https://play.google.com/store/apps/details?id=com.sps.orant",
+    "appstore": "https://apps.apple.com/app/orangt-lms/id6612033851",
+    "instagram": "https://www.instagram.com/lms_orangt/",
+    "facebook": "https://www.facebook.com/lmsorangt",
+    "twitter": "https://twitter.com/OrangtL",
+    "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
+    "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
+    "privacy_policy_url": "https://myorangt.com/privacy-policy",
+    "tos_url": "https://myorangt.com/terms-of-service",
+    "contact_url": "https://www.instagram.com/lms_orangt/",
+    "about_url": "https://myorangt.com/why-orangt",
+    "icon_menu_dir": "default/icon_menu",
+    "border_avatar_dir": "default/border_avatar",
+    "logo": "logo/wika.jpg",
+    "logo_dark": "logo/wika_dark.png",
+    "border_avatar": [
+      "bronze.svg",
+      "silver.svg",
+      "gold.svg",
+      "platinum.svg"
+    ],
+    "featured_home": [
+      {
+        "show_all": false,
+        "state": true,
+        "key": "expert_session",
+        "type": "expert_session",
+        "title": "title_expert_session",
+        "subtitle": "subtitle_expert_session",
+        "url": "/api/v5/learning/expert/session",
+        "queryString": {
+          "filter_by": "ONGOING"
+        },
+        "height": 160,
+        "width": 145
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training_participant",
+        "type": "training_participant",
+        "title": "title_training_end_soon",
+        "subtitle": "subtitle_training_end_soon",
+        "url": "/api/v5/learning/training/schedule",
+        "queryString": {
+          "filter_by": "ENDED_SOON"
+        },
+        "height": 195,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training_for_you",
+        "type": "training_for_you",
+        "title": "title_training_for_you",
+        "subtitle": "subtitle_training_for_you",
+        "url": "/api/v5/learning/training",
+        "queryString": {
+          "for_you": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "course_for_you",
+        "type": "course_for_you",
+        "title": "title_course_for_you",
+        "subtitle": "subtitle_course_for_you",
+        "url": "/api/v5/learning/content",
+        "queryString": {
+          "for_you": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training",
+        "type": "training",
+        "title": "title_featured_training",
+        "subtitle": "subtitle_featured_training",
+        "url": "/api/v5/learning/training",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "knowledge",
+        "type": "knowledge",
+        "title": "title_featured_knowledge",
+        "subtitle": "subtitle_featured_knowledge",
+        "url": "/api/v5/learning/knowledge",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 200,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "news",
+        "type": "news",
+        "title": "title_featured_news",
+        "subtitle": "subtitle_featured_news",
+        "url": "/api/v5/learning/news",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 200,
+        "width": 200
+      }
+    ],
+    "max_file_size": 52428800,
+    "primary_color": "2196F3",
+    "splash_gradient": [
+      "2196F3",
+      "1565C0"
+    ],
+    "allowed_media_task": [
+      "jpg",
+      "png",
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
+    ],
+    "menu_account": [
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "insight",
+        "label": "insight",
+        "symbol_icon": "0xe90f",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
+    ],
+    "menu": [
+      {
+        "code": "pending_action",
+        "label": "pending_action",
+        "image_svg": "pending_action.svg",
+        "image": "pending_action.png",
+        "color": "4CAF50",
+        "route": "pending_action",
+        "args": null
+      },
+      {
+        "code": "knowledge",
+        "label": "knowledge",
+        "image_svg": "knowledge.svg",
+        "image": "knowledge.png",
+        "color": "4CAF50",
+        "route": "knowledge",
+        "args": null
+      },
+      {
+        "code": "news",
+        "label": "news",
+        "image_svg": "news.svg",
+        "image": "news.png",
+        "color": "F44336",
+        "route": "news",
+        "args": null
+      },
+      {
+        "code": "content",
+        "label": "course",
+        "image_svg": "content.svg",
+        "image": "content.png",
+        "color": "4CAF50",
+        "route": "content",
+        "args": null
+      },
+      {
+        "code": "training",
+        "label": "training",
+        "image_svg": "training.svg",
+        "image": "training.png",
+        "color": "2196F3",
+        "route": "training",
+        "args": null
+      },
+      {
+        "code": "assessment",
+        "label": "assessment",
+        "image_svg": "assessment.svg",
+        "image": "assessment.png",
+        "color": "3F51B5",
+        "route": "assessment",
+        "args": null
+      },
+      {
+        "code": "coaching_mentoring",
+        "label": "coaching_mentoring",
+        "image_svg": "coaching_mentoring.svg",
+        "image": "coaching_mentoring.png",
+        "color": "00BCD4",
+        "route": "coaching_mentoring",
+        "args": null
+      },
+      {
+        "code": "expert",
+        "label": "expert",
+        "image_svg": "expert.svg",
+        "image": "expert.png",
+        "color": "F44336",
+        "route": "expert",
+        "args": null
+      },
+      {
+        "code": "daily_activity",
+        "label": "daily_activity",
+        "image_svg": "daily_activity.svg",
+        "image": "daily_activity.png",
+        "color": "9C27B0",
+        "route": "daily_activity",
+        "args": null
+      }
+    ]
+  },
+  {
+    "batch": "6",
     "code": "bsi dev",
     "alias": "bsi dev",
     "name": "BSI DEV",
