@@ -5101,13 +5101,6 @@
         "args": null
       },
       {
-        "code": "group",
-        "label": "community",
-        "symbol_icon": "0xea21",
-        "route": "group",
-        "args": null
-      },
-      {
         "code": "insight",
         "label": "insight",
         "symbol_icon": "0xe90f",
