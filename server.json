@@ -4652,6 +4652,36 @@
       {
         "show_all": false,
         "state": true,
+        "key": "competition",
+        "type": "competition",
+        "title": "title_featured_competition",
+        "subtitle": "subtitle_featured_competition",
+        "url": "/api/v5/learning/competition",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 225,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "group",
+        "type": "group",
+        "title": "title_offical_community",
+        "subtitle": "subtitle_offical_community",
+        "url": "/api/v5/learning/group",
+        "queryString": {
+          "type": "1",
+          "is_featured": "1"
+        },
+        "height": 140,
+        "width": 125
+      },
+      {
+        "show_all": false,
+        "state": true,
         "key": "expert_session",
         "type": "expert_session",
         "title": "title_expert_session",
@@ -4873,12 +4903,12 @@
         "args": null
       },
       {
-        "code": "assessment",
-        "label": "assessment",
-        "image_svg": "assessment.svg",
-        "image": "assessment.png",
-        "color": "3F51B5",
-        "route": "assessment",
+        "code": "competition",
+        "label": "competition",
+        "image_svg": "competition.svg",
+        "image": "competition.png",
+        "color": "FFEB3B",
+        "route": "competition",
         "args": null
       },
       {
