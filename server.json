@@ -4842,6 +4842,13 @@
         "args": null
       },
       {
+        "code": "competition_manage",
+        "label": "manage_competition",
+        "symbol_icon": "0xf5de",
+        "route": "competition_manage",
+        "args": null
+      },
+      {
         "code": "presence",
         "label": "presence",
         "symbol_icon": "0xe90d",
