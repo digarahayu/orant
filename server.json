@@ -4829,13 +4829,6 @@
         "args": null
       },
       {
-        "code": "insight",
-        "label": "insight",
-        "symbol_icon": "0xe90f",
-        "route": "insight",
-        "args": null
-      },
-      {
         "code": "thread",
         "label": "thread",
         "symbol_icon": "0xe8af",
@@ -4854,13 +4847,6 @@
         "label": "presence",
         "symbol_icon": "0xe90d",
         "route": "presence",
-        "args": null
-      },
-      {
-        "code": "subordinate",
-        "label": "subordinate",
-        "symbol_icon": "0xe97a",
-        "route": "subordinate",
         "args": null
       }
     ],
