@@ -4642,6 +4642,7 @@
     "border_avatar_dir": "default/border_avatar",
     "logo": "logo/jaring.png",
     "logo_dark": "logo/jaring_dark.png",
+    "logo_height": 100,
     "border_avatar": [
       "bronze.svg",
       "silver.svg",
