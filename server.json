@@ -4324,6 +4324,7 @@
     "daily_check_in": true,
     "ai": false,
     "btc": false,
+    "mfa": true,
     "sign_with_password": true,
     "sign_with_google": true,
     "sign_with_microsoft": true,
