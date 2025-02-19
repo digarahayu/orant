@@ -4849,6 +4849,13 @@
         "symbol_icon": "0xe90d",
         "route": "presence",
         "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
       }
     ],
     "menu": [
