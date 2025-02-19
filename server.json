@@ -1140,6 +1140,7 @@
     "host": "ljr-dev.myorangt.com",
     "valid_to": "9999-01-01",
     "show_case": 1,
+    "interactive_room": true,
     "secure": false,
     "google_map": false,
     "daily_check_in": true,
