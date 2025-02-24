@@ -3764,6 +3764,21 @@
       {
         "show_all": false,
         "state": true,
+        "key": "knowledge",
+        "type": "knowledge",
+        "title": "title_featured_knowledge",
+        "subtitle": "subtitle_featured_knowledge",
+        "url": "/api/v5/learning/knowledge",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 200,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
         "key": "expert_session",
         "type": "expert_session",
         "title": "title_expert_session",
@@ -3807,21 +3822,6 @@
       {
         "show_all": false,
         "state": true,
-        "key": "course_for_you",
-        "type": "course_for_you",
-        "title": "title_course_for_you",
-        "subtitle": "subtitle_course_for_you",
-        "url": "/api/v5/learning/content",
-        "queryString": {
-          "for_you": "1",
-          "sort_by": "MOST_RECENT"
-        },
-        "height": 220,
-        "width": 200
-      },
-      {
-        "show_all": false,
-        "state": true,
         "key": "training",
         "type": "training",
         "title": "title_featured_training",
@@ -3837,16 +3837,16 @@
       {
         "show_all": false,
         "state": true,
-        "key": "knowledge",
-        "type": "knowledge",
-        "title": "title_featured_knowledge",
-        "subtitle": "subtitle_featured_knowledge",
-        "url": "/api/v5/learning/knowledge",
+        "key": "course_for_you",
+        "type": "course_for_you",
+        "title": "title_course_for_you",
+        "subtitle": "subtitle_course_for_you",
+        "url": "/api/v5/learning/content",
         "queryString": {
-          "is_featured": "1",
+          "for_you": "1",
           "sort_by": "MOST_RECENT"
         },
-        "height": 200,
+        "height": 220,
         "width": 200
       },
       {
@@ -4068,6 +4068,21 @@
       {
         "show_all": false,
         "state": true,
+        "key": "knowledge",
+        "type": "knowledge",
+        "title": "title_featured_knowledge",
+        "subtitle": "subtitle_featured_knowledge",
+        "url": "/api/v5/learning/knowledge",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 200,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
         "key": "expert_session",
         "type": "expert_session",
         "title": "title_expert_session",
@@ -4111,21 +4126,6 @@
       {
         "show_all": false,
         "state": true,
-        "key": "course_for_you",
-        "type": "course_for_you",
-        "title": "title_course_for_you",
-        "subtitle": "subtitle_course_for_you",
-        "url": "/api/v5/learning/content",
-        "queryString": {
-          "for_you": "1",
-          "sort_by": "MOST_RECENT"
-        },
-        "height": 220,
-        "width": 200
-      },
-      {
-        "show_all": false,
-        "state": true,
         "key": "training",
         "type": "training",
         "title": "title_featured_training",
@@ -4141,16 +4141,16 @@
       {
         "show_all": false,
         "state": true,
-        "key": "knowledge",
-        "type": "knowledge",
-        "title": "title_featured_knowledge",
-        "subtitle": "subtitle_featured_knowledge",
-        "url": "/api/v5/learning/knowledge",
+        "key": "course_for_you",
+        "type": "course_for_you",
+        "title": "title_course_for_you",
+        "subtitle": "subtitle_course_for_you",
+        "url": "/api/v5/learning/content",
         "queryString": {
-          "is_featured": "1",
+          "for_you": "1",
           "sort_by": "MOST_RECENT"
         },
-        "height": 200,
+        "height": 220,
         "width": 200
       },
       {
