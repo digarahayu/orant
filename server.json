@@ -225,6 +225,13 @@
     ],
     "menu_account": [
       {
+        "code": "purchase",
+        "label": "purchase",
+        "symbol_icon": "0xe54c",
+        "route": "purchase",
+        "args": null
+      },
+      {
         "code": "training_external",
         "label": "training_external",
         "symbol_icon": "0xeb04",
@@ -4828,6 +4835,13 @@
       100
     ],
     "menu_account": [
+      {
+        "code": "purchase",
+        "label": "purchase",
+        "symbol_icon": "0xe54c",
+        "route": "purchase",
+        "args": null
+      },
       {
         "code": "training_external",
         "label": "training_external",
