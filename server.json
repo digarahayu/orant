@@ -4871,6 +4871,13 @@
         "args": null
       },
       {
+        "code": "tournament",
+        "label": "tournament",
+        "symbol_icon": "0xf5de",
+        "route": "competition",
+        "args": null
+      },
+      {
         "code": "thread",
         "label": "thread",
         "symbol_icon": "0xe8af",
