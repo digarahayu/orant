@@ -253,6 +253,13 @@
         "args": null
       },
       {
+        "code": "tournament",
+        "label": "tournament",
+        "symbol_icon": "0xf5de",
+        "route": "competition",
+        "args": null
+      },
+      {
         "code": "insight",
         "label": "insight",
         "symbol_icon": "0xe90f",
