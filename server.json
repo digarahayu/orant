@@ -5358,7 +5358,7 @@
     "ai": false,
     "btc": true,
     "mission": true,
-    "interactive_room": true,
+    "interactive_room": false,
     "sign_with_password": true,
     "sign_with_google": true,
     "sign_with_microsoft": true,
