@@ -4674,7 +4674,7 @@
     "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
     "privacy_policy_url": "https://myorangt.com/privacy-policy",
     "tos_url": "https://myorangt.com/terms-of-service",
-    "contact_url": "https://www.instagram.com/lms_orangt/",
+    "contact_url": "https://wa.me/6281287000879",
     "about_url": "https://myorangt.com/why-orangt",
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
@@ -4876,7 +4876,7 @@
       {
         "code": "team",
         "label": "team",
-        "symbol_icon": "0xf0883",
+        "symbol_icon": "0xf8d9",
         "route": "group",
         "args": null
       },
@@ -5032,7 +5032,7 @@
     "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
     "privacy_policy_url": "https://myorangt.com/privacy-policy",
     "tos_url": "https://myorangt.com/terms-of-service",
-    "contact_url": "https://www.instagram.com/lms_orangt/",
+    "contact_url": "https://wa.me/6281287000879",
     "about_url": "https://myorangt.com/why-orangt",
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
@@ -5234,7 +5234,7 @@
       {
         "code": "team",
         "label": "team",
-        "symbol_icon": "0xf0883",
+        "symbol_icon": "0xf8d9",
         "route": "group",
         "args": null
       },
