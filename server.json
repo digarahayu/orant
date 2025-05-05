@@ -4874,6 +4874,13 @@
         "args": null
       },
       {
+        "code": "team",
+        "label": "team",
+        "symbol_icon": "0xf0883",
+        "route": "group",
+        "args": null
+      },
+      {
         "code": "tournament",
         "label": "tournament",
         "symbol_icon": "0xf5de",
@@ -5221,6 +5228,13 @@
         "code": "group",
         "label": "community",
         "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "team",
+        "label": "team",
+        "symbol_icon": "0xf0883",
         "route": "group",
         "args": null
       },
