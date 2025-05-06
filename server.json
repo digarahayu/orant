@@ -5012,6 +5012,7 @@
     "create_interactive_room": false,
     "secure": false,
     "google_map": true,
+    "withdraw": true,
     "daily_check_in": true,
     "ai": false,
     "btc": true,
