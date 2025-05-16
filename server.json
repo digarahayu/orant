@@ -1754,7 +1754,7 @@
     "host": "fithub.myorangt.com",
     "valid_to": "9999-01-01",
     "show_case": 0,
-    "secure": false,
+    "secure": true,
     "google_map": false,
     "daily_check_in": false,
     "ai": false,
