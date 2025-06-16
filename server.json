@@ -5254,6 +5254,7 @@
     "daily_check_in": true,
     "ai": false,
     "btc": true,
+    "mfa": true,
     "mission": true,
     "sign_with_password": true,
     "sign_with_google": true,
