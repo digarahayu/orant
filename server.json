@@ -6589,7 +6589,7 @@
     "mission": true,
     "sign_with_password": true,
     "sign_with_google": true,
-    "sign_with_microsoft": false,
+    "sign_with_microsoft": true,
     "force_open_setting": true,
     "directly_request_location": true,
     "custom_message_permission": true,
