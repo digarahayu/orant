@@ -6757,10 +6757,10 @@
       }
     ],
     "max_file_size": 52428800,
-    "primary_color": "59aad7",
+    "primary_color": "a52525",
     "splash_gradient": [
-      "2196F3",
-      "1565C0"
+      "ffffff",
+      "ffffff"
     ],
     "allowed_media_task": [
       "jpg",
