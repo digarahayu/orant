@@ -2042,6 +2042,11 @@
         "route": "daily_activity",
         "args": null
       }
+    ],
+    "intro": [
+      "intro/fithub1.png",
+      "intro/fithub2.jpg",
+      "intro/fithub3.jpg"
     ]
   },
   {
