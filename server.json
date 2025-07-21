@@ -5600,6 +5600,15 @@
         "color": "9C27B0",
         "route": "daily_activity",
         "args": null
+      },
+      {
+        "code": "event",
+        "label": "event",
+        "image_svg": "event.svg",
+        "image": "event.png",
+        "color": "00BCD4",
+        "route": "event",
+        "args": null
       }
     ]
   },
@@ -5961,6 +5970,15 @@
         "image": "daily_activity.png",
         "color": "9C27B0",
         "route": "daily_activity",
+        "args": null
+      },
+      {
+        "code": "event",
+        "label": "event",
+        "image_svg": "event.svg",
+        "image": "event.png",
+        "color": "00BCD4",
+        "route": "event",
         "args": null
       }
     ]
@@ -6946,6 +6964,15 @@
         "image": "daily_activity.png",
         "color": "9C27B0",
         "route": "daily_activity",
+        "args": null
+      },
+      {
+        "code": "event",
+        "label": "event",
+        "image_svg": "event.svg",
+        "image": "event.png",
+        "color": "00BCD4",
+        "route": "event",
         "args": null
       }
     ]
