@@ -1174,6 +1174,8 @@
     "force_open_setting": false,
     "directly_request_location": false,
     "custom_message_permission": false,
+    "competency_coaching_mentoring": true,
+    "recommendation_coaching_mentoring": true,
     "logo_small_path": "assets/images/logo/orangt.png",
     "playstore": "https://play.google.com/store/apps/details?id=com.sps.orant",
     "appstore": "https://apps.apple.com/app/orangt-lms/id6612033851",
