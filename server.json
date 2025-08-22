@@ -7626,7 +7626,7 @@
     "batch": "6",
     "code": "kdmp",
     "alias": "kdmp",
-    "name": "Koperasi Desa 🇮🇩",
+    "name": "Koperasi Desa Kelurahaan Merah Putih",
     "host": "kdmp.jaring.net",
     "valid_to": "9999-01-01",
     "show_case": 0,
@@ -7662,8 +7662,8 @@
     "about_url": "https://myorangt.com/why-orangt",
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
-    "logo": "logo/kdmp.png",
-    "logo_dark": "logo/kdmp.png",
+    "logo": "logo/kemenkop.png",
+    "logo_dark": "logo/kemenkop_dark.png",
     "intro": [
       "intro/kdmp1.jpg",
       "intro/kdmp2.jpg",
@@ -7812,7 +7812,7 @@
       }
     ],
     "max_file_size": 52428800,
-    "primary_color": "D32F2F",
+    "primary_color": "005267",
     "splash_gradient": [
       "ffffff",
       "ffffff"
