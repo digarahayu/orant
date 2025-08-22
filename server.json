@@ -7996,6 +7996,50 @@
         "route": "event",
         "args": null
       }
+    ],
+    "hightlight_height": 100,
+    "hightlight_menu": [
+      {
+        "code": "daily_challenge",
+        "label": "daily_challenge",
+        "subtitle": "subtitile_daily_challenge",
+        "args": null
+      },
+      {
+        "code": "reward",
+        "label": "reward",
+        "subtitle": "subtitile_reward",
+        "route": "reward",
+        "args": null
+      },
+      {
+        "code": "history",
+        "label": "history",
+        "subtitle": "subtitile_history",
+        "route": "submission_history",
+        "args": null
+      },
+      {
+        "code": "training",
+        "label": "my_training",
+        "subtitle": "subtitile_my_training",
+        "route": "training_schedule",
+        "args": null
+      },
+      {
+        "code": "reading_hours",
+        "label": "reading_hours",
+        "subtitle": "subtitile_reading_hours",
+        "route": "reading_hours",
+        "args": null
+      },
+      {
+        "code": "bookmarks",
+        "label": "bookmarks",
+        "subtitle": "subtitile_bookmark",
+        "route": "bookmark",
+        "args": null
+      }
     ]
   }
 ]
