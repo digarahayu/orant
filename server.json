@@ -8032,13 +8032,6 @@
         "subtitle": "subtitile_reading_hours",
         "route": "reading_hours",
         "args": null
-      },
-      {
-        "code": "bookmarks",
-        "label": "bookmarks",
-        "subtitle": "subtitile_bookmark",
-        "route": "bookmark",
-        "args": null
       }
     ]
   }
