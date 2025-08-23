@@ -1,0 +1,1164 @@
+[
+  {
+    "batch": "6",
+    "code": "kdmp",
+    "alias": "kdmp",
+    "name": "Kemenkop360",
+    "host": "kdmp.jaring.net",
+    "valid_to": "9999-01-01",
+    "show_case": 0,
+    "interactive_room": true,
+    "create_interactive_room": false,
+    "secure": false,
+    "google_map": true,
+    "verify_phone_number_required": false,
+    "withdraw": true,
+    "daily_check_in": true,
+    "ai": false,
+    "btc": true,
+    "mfa": true,
+    "mission": true,
+    "register": true,
+    "sign_with_password": true,
+    "sign_with_google": true,
+    "sign_with_microsoft": true,
+    "force_open_setting": true,
+    "directly_request_location": true,
+    "custom_message_permission": true,
+    "logo_small_path": "assets/images/logo/jaring.jpg",
+    "playstore": "https://play.google.com/store/apps/details?id=com.jeff.mzone_tour",
+    "appstore": "https://apps.apple.com/app/orangt-lms/id6612033851",
+    "instagram": "https://www.instagram.com/lms_orangt/",
+    "facebook": "https://www.facebook.com/lmsorangt",
+    "twitter": "https://twitter.com/OrangtL",
+    "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
+    "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
+    "privacy_policy_url": "https://myorangt.com/privacy-policy",
+    "tos_url": "https://myorangt.com/terms-of-service",
+    "contact_url": "https://wa.me/6285804507711",
+    "about_url": "https://myorangt.com/why-orangt",
+    "icon_menu_dir": "default/icon_menu",
+    "border_avatar_dir": "default/border_avatar",
+    "logo": "logo/kemenkop.png",
+    "logo_dark": "logo/kemenkop_dark.png",
+    "intro": [
+      "intro/kdmp1.jpg",
+      "intro/kdmp2.jpg",
+      "intro/kdmp3.jpg"
+    ],
+    "logo_height": 150,
+    "border_avatar": [
+      "bronze.svg",
+      "silver.svg",
+      "gold.svg",
+      "platinum.svg"
+    ],
+    "featured_home": [
+      {
+        "show_all": false,
+        "state": true,
+        "key": "competition",
+        "type": "competition",
+        "title": "title_featured_competition",
+        "subtitle": "subtitle_featured_competition",
+        "url": "/api/v5/learning/competition",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 225,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "group",
+        "type": "group",
+        "title": "title_offical_community",
+        "subtitle": "subtitle_offical_community",
+        "url": "/api/v5/learning/group",
+        "queryString": {
+          "type": "1",
+          "is_featured": "1"
+        },
+        "height": 140,
+        "width": 125
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "expert_session",
+        "type": "expert_session",
+        "title": "title_expert_session",
+        "subtitle": "subtitle_expert_session",
+        "url": "/api/v5/learning/expert/session",
+        "queryString": {
+          "filter_by": "ONGOING"
+        },
+        "height": 160,
+        "width": 145
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training_participant",
+        "type": "training_participant",
+        "title": "title_training_end_soon",
+        "subtitle": "subtitle_training_end_soon",
+        "url": "/api/v5/learning/training/schedule",
+        "queryString": {
+          "filter_by": "ENDED_SOON"
+        },
+        "height": 195,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training_for_you",
+        "type": "training_for_you",
+        "title": "title_training_for_you",
+        "subtitle": "subtitle_training_for_you",
+        "url": "/api/v5/learning/training",
+        "queryString": {
+          "for_you": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "course_for_you",
+        "type": "course_for_you",
+        "title": "title_course_for_you",
+        "subtitle": "subtitle_course_for_you",
+        "url": "/api/v5/learning/content",
+        "queryString": {
+          "for_you": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training",
+        "type": "training",
+        "title": "title_featured_training",
+        "subtitle": "subtitle_featured_training",
+        "url": "/api/v5/learning/training",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "knowledge",
+        "type": "knowledge",
+        "title": "title_featured_knowledge",
+        "subtitle": "subtitle_featured_knowledge",
+        "url": "/api/v5/learning/knowledge",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 200,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "news",
+        "type": "news",
+        "title": "title_featured_news",
+        "subtitle": "subtitle_featured_news",
+        "url": "/api/v5/learning/news",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 200,
+        "width": 200
+      }
+    ],
+    "max_file_size": 52428800,
+    "primary_color": "005267",
+    "splash_gradient": [
+      "ffffff",
+      "ffffff"
+    ],
+    "allowed_media_task": [
+      "jpg",
+      "png",
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
+    ],
+    "menu_account": [
+      {
+        "code": "purchase",
+        "label": "purchase",
+        "symbol_icon": "0xe54c",
+        "route": "purchase",
+        "args": null
+      },
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "team",
+        "label": "team",
+        "symbol_icon": "0xf8d9",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "tournament",
+        "label": "tournament",
+        "symbol_icon": "0xf5de",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "competition_manage",
+        "label": "manage_competition",
+        "symbol_icon": "0xf5de",
+        "route": "competition_manage",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
+    ],
+    "menu": [
+      {
+        "code": "pending_action",
+        "label": "pending_action",
+        "image_svg": "pending_action.svg",
+        "image": "pending_action.png",
+        "color": "4CAF50",
+        "route": "pending_action",
+        "args": null
+      },
+      {
+        "code": "knowledge",
+        "label": "knowledge",
+        "image_svg": "knowledge.svg",
+        "image": "knowledge.png",
+        "color": "4CAF50",
+        "route": "knowledge",
+        "args": null
+      },
+      {
+        "code": "news",
+        "label": "news",
+        "image_svg": "news.svg",
+        "image": "news.png",
+        "color": "F44336",
+        "route": "news",
+        "args": null
+      },
+      {
+        "code": "content",
+        "label": "course",
+        "image_svg": "content.svg",
+        "image": "content.png",
+        "color": "4CAF50",
+        "route": "content",
+        "args": null
+      },
+      {
+        "code": "training",
+        "label": "training",
+        "image_svg": "training.svg",
+        "image": "training.png",
+        "color": "2196F3",
+        "route": "training",
+        "args": null
+      },
+      {
+        "code": "competition",
+        "label": "competition",
+        "image_svg": "competition.svg",
+        "image": "competition.png",
+        "color": "FFEB3B",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "coaching_mentoring",
+        "label": "coaching_mentoring",
+        "image_svg": "coaching_mentoring.svg",
+        "image": "coaching_mentoring.png",
+        "color": "00BCD4",
+        "route": "coaching_mentoring",
+        "args": null
+      },
+      {
+        "code": "expert",
+        "label": "expert",
+        "image_svg": "expert.svg",
+        "image": "expert.png",
+        "color": "F44336",
+        "route": "expert",
+        "args": null
+      },
+      {
+        "code": "daily_activity",
+        "label": "daily_activity",
+        "image_svg": "daily_activity.svg",
+        "image": "daily_activity.png",
+        "color": "9C27B0",
+        "route": "daily_activity",
+        "args": null
+      },
+      {
+        "code": "event",
+        "label": "event",
+        "image_svg": "event.svg",
+        "image": "event.png",
+        "color": "00BCD4",
+        "route": "event",
+        "args": null
+      }
+    ],
+    "hightlight_height": 100,
+    "hightlight_menu": [
+      {
+        "code": "daily_challenge",
+        "label": "daily_challenge",
+        "subtitle": "subtitile_daily_challenge",
+        "args": null
+      },
+      {
+        "code": "reward",
+        "label": "reward",
+        "subtitle": "subtitile_reward",
+        "route": "reward",
+        "args": null
+      },
+      {
+        "code": "history",
+        "label": "history",
+        "subtitle": "subtitile_history",
+        "route": "submission_history",
+        "args": null
+      },
+      {
+        "code": "training",
+        "label": "my_training",
+        "subtitle": "subtitile_my_training",
+        "route": "training_schedule",
+        "args": null
+      },
+      {
+        "code": "reading_hours",
+        "label": "reading_hours",
+        "subtitle": "subtitile_reading_hours",
+        "route": "reading_hours",
+        "args": null
+      },
+      {
+        "code": "bookmarks",
+        "label": "bookmarks",
+        "subtitle": "subtitile_bookmark",
+        "route": "bookmark",
+        "args": null
+      }
+    ]
+  },
+  {
+    "batch": "6",
+    "code": "jaring",
+    "alias": "jaring",
+    "name": "Esport360",
+    "host": "jaring.net",
+    "valid_to": "9999-01-01",
+    "show_case": 0,
+    "interactive_room": true,
+    "create_interactive_room": false,
+    "secure": false,
+    "google_map": true,
+    "verify_phone_number_required": false,
+    "withdraw": true,
+    "daily_check_in": true,
+    "ai": false,
+    "btc": true,
+    "mfa": true,
+    "mission": true,
+    "register": true,
+    "sign_with_password": true,
+    "sign_with_google": true,
+    "sign_with_microsoft": false,
+    "force_open_setting": true,
+    "directly_request_location": true,
+    "custom_message_permission": true,
+    "logo_small_path": "assets/images/logo/jaring.jpg",
+    "playstore": "https://play.google.com/store/apps/details?id=com.jeff.mzone_tour",
+    "appstore": "https://apps.apple.com/app/orangt-lms/id6612033851",
+    "instagram": "https://www.instagram.com/lms_orangt/",
+    "facebook": "https://www.facebook.com/lmsorangt",
+    "twitter": "https://twitter.com/OrangtL",
+    "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
+    "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
+    "privacy_policy_url": "https://myorangt.com/privacy-policy",
+    "tos_url": "https://myorangt.com/terms-of-service",
+    "contact_url": "https://wa.me/6285804507711",
+    "about_url": "https://myorangt.com/why-orangt",
+    "icon_menu_dir": "default/icon_menu",
+    "border_avatar_dir": "default/border_avatar",
+    "logo": "logo/jaring.png",
+    "logo_dark": "logo/jaring_dark.png",
+    "logo_height": 100,
+    "border_avatar": [
+      "bronze.svg",
+      "silver.svg",
+      "gold.svg",
+      "platinum.svg"
+    ],
+    "featured_home": [
+      {
+        "show_all": false,
+        "state": true,
+        "key": "competition",
+        "type": "competition",
+        "title": "title_featured_competition",
+        "subtitle": "subtitle_featured_competition",
+        "url": "/api/v5/learning/competition",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 225,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "group",
+        "type": "group",
+        "title": "title_offical_community",
+        "subtitle": "subtitle_offical_community",
+        "url": "/api/v5/learning/group",
+        "queryString": {
+          "type": "1",
+          "is_featured": "1"
+        },
+        "height": 140,
+        "width": 125
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "expert_session",
+        "type": "expert_session",
+        "title": "title_expert_session",
+        "subtitle": "subtitle_expert_session",
+        "url": "/api/v5/learning/expert/session",
+        "queryString": {
+          "filter_by": "ONGOING"
+        },
+        "height": 160,
+        "width": 145
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training_participant",
+        "type": "training_participant",
+        "title": "title_training_end_soon",
+        "subtitle": "subtitle_training_end_soon",
+        "url": "/api/v5/learning/training/schedule",
+        "queryString": {
+          "filter_by": "ENDED_SOON"
+        },
+        "height": 195,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training_for_you",
+        "type": "training_for_you",
+        "title": "title_training_for_you",
+        "subtitle": "subtitle_training_for_you",
+        "url": "/api/v5/learning/training",
+        "queryString": {
+          "for_you": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "course_for_you",
+        "type": "course_for_you",
+        "title": "title_course_for_you",
+        "subtitle": "subtitle_course_for_you",
+        "url": "/api/v5/learning/content",
+        "queryString": {
+          "for_you": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training",
+        "type": "training",
+        "title": "title_featured_training",
+        "subtitle": "subtitle_featured_training",
+        "url": "/api/v5/learning/training",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "knowledge",
+        "type": "knowledge",
+        "title": "title_featured_knowledge",
+        "subtitle": "subtitle_featured_knowledge",
+        "url": "/api/v5/learning/knowledge",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 200,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "news",
+        "type": "news",
+        "title": "title_featured_news",
+        "subtitle": "subtitle_featured_news",
+        "url": "/api/v5/learning/news",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 200,
+        "width": 200
+      }
+    ],
+    "max_file_size": 52428800,
+    "primary_color": "59aad7",
+    "splash_gradient": [
+      "2196F3",
+      "1565C0"
+    ],
+    "allowed_media_task": [
+      "jpg",
+      "png",
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
+    ],
+    "menu_account": [
+      {
+        "code": "purchase",
+        "label": "purchase",
+        "symbol_icon": "0xe54c",
+        "route": "purchase",
+        "args": null
+      },
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "team",
+        "label": "team",
+        "symbol_icon": "0xf8d9",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "tournament",
+        "label": "tournament",
+        "symbol_icon": "0xf5de",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "competition_manage",
+        "label": "manage_competition",
+        "symbol_icon": "0xf5de",
+        "route": "competition_manage",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
+    ],
+    "menu": [
+      {
+        "code": "pending_action",
+        "label": "pending_action",
+        "image_svg": "pending_action.svg",
+        "image": "pending_action.png",
+        "color": "4CAF50",
+        "route": "pending_action",
+        "args": null
+      },
+      {
+        "code": "knowledge",
+        "label": "knowledge",
+        "image_svg": "knowledge.svg",
+        "image": "knowledge.png",
+        "color": "4CAF50",
+        "route": "knowledge",
+        "args": null
+      },
+      {
+        "code": "news",
+        "label": "news",
+        "image_svg": "news.svg",
+        "image": "news.png",
+        "color": "F44336",
+        "route": "news",
+        "args": null
+      },
+      {
+        "code": "content",
+        "label": "course",
+        "image_svg": "content.svg",
+        "image": "content.png",
+        "color": "4CAF50",
+        "route": "content",
+        "args": null
+      },
+      {
+        "code": "training",
+        "label": "training",
+        "image_svg": "training.svg",
+        "image": "training.png",
+        "color": "2196F3",
+        "route": "training",
+        "args": null
+      },
+      {
+        "code": "competition",
+        "label": "competition",
+        "image_svg": "competition.svg",
+        "image": "competition.png",
+        "color": "FFEB3B",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "coaching_mentoring",
+        "label": "coaching_mentoring",
+        "image_svg": "coaching_mentoring.svg",
+        "image": "coaching_mentoring.png",
+        "color": "00BCD4",
+        "route": "coaching_mentoring",
+        "args": null
+      },
+      {
+        "code": "expert",
+        "label": "expert",
+        "image_svg": "expert.svg",
+        "image": "expert.png",
+        "color": "F44336",
+        "route": "expert",
+        "args": null
+      },
+      {
+        "code": "daily_activity",
+        "label": "daily_activity",
+        "image_svg": "daily_activity.svg",
+        "image": "daily_activity.png",
+        "color": "9C27B0",
+        "route": "daily_activity",
+        "args": null
+      },
+      {
+        "code": "event",
+        "label": "event",
+        "image_svg": "event.svg",
+        "image": "event.png",
+        "color": "00BCD4",
+        "route": "event",
+        "args": null
+      }
+    ]
+  },
+  {
+    "batch": "6",
+    "code": "jaring",
+    "alias": "pesantren",
+    "name": "Pesantren360",
+    "host": "jaring.net",
+    "valid_to": "9999-01-01",
+    "show_case": 0,
+    "interactive_room": true,
+    "create_interactive_room": false,
+    "secure": false,
+    "google_map": true,
+    "verify_phone_number_required": false,
+    "withdraw": true,
+    "daily_check_in": true,
+    "ai": false,
+    "btc": true,
+    "mfa": true,
+    "mission": true,
+    "register": true,
+    "sign_with_password": true,
+    "sign_with_google": true,
+    "sign_with_microsoft": false,
+    "force_open_setting": true,
+    "directly_request_location": true,
+    "custom_message_permission": true,
+    "logo_small_path": "assets/images/logo/jaring.jpg",
+    "playstore": "https://play.google.com/store/apps/details?id=com.jeff.mzone_tour",
+    "appstore": "https://apps.apple.com/app/orangt-lms/id6612033851",
+    "instagram": "https://www.instagram.com/lms_orangt/",
+    "facebook": "https://www.facebook.com/lmsorangt",
+    "twitter": "https://twitter.com/OrangtL",
+    "linkedin": "https://www.linkedin.com/in/orangt-collaborative-learning-82b1ba20a/",
+    "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
+    "privacy_policy_url": "https://myorangt.com/privacy-policy",
+    "tos_url": "https://myorangt.com/terms-of-service",
+    "contact_url": "https://wa.me/6285804507711",
+    "about_url": "https://myorangt.com/why-orangt",
+    "icon_menu_dir": "default/icon_menu",
+    "border_avatar_dir": "default/border_avatar",
+    "logo": "logo/jaring.png",
+    "logo_dark": "logo/jaring_dark.png",
+    "logo_height": 100,
+    "border_avatar": [
+      "bronze.svg",
+      "silver.svg",
+      "gold.svg",
+      "platinum.svg"
+    ],
+    "featured_home": [
+      {
+        "show_all": false,
+        "state": true,
+        "key": "competition",
+        "type": "competition",
+        "title": "title_featured_competition",
+        "subtitle": "subtitle_featured_competition",
+        "url": "/api/v5/learning/competition",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 225,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "group",
+        "type": "group",
+        "title": "title_offical_community",
+        "subtitle": "subtitle_offical_community",
+        "url": "/api/v5/learning/group",
+        "queryString": {
+          "type": "1",
+          "is_featured": "1"
+        },
+        "height": 140,
+        "width": 125
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "expert_session",
+        "type": "expert_session",
+        "title": "title_expert_session",
+        "subtitle": "subtitle_expert_session",
+        "url": "/api/v5/learning/expert/session",
+        "queryString": {
+          "filter_by": "ONGOING"
+        },
+        "height": 160,
+        "width": 145
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training_participant",
+        "type": "training_participant",
+        "title": "title_training_end_soon",
+        "subtitle": "subtitle_training_end_soon",
+        "url": "/api/v5/learning/training/schedule",
+        "queryString": {
+          "filter_by": "ENDED_SOON"
+        },
+        "height": 195,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training_for_you",
+        "type": "training_for_you",
+        "title": "title_training_for_you",
+        "subtitle": "subtitle_training_for_you",
+        "url": "/api/v5/learning/training",
+        "queryString": {
+          "for_you": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "course_for_you",
+        "type": "course_for_you",
+        "title": "title_course_for_you",
+        "subtitle": "subtitle_course_for_you",
+        "url": "/api/v5/learning/content",
+        "queryString": {
+          "for_you": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "training",
+        "type": "training",
+        "title": "title_featured_training",
+        "subtitle": "subtitle_featured_training",
+        "url": "/api/v5/learning/training",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "knowledge",
+        "type": "knowledge",
+        "title": "title_featured_knowledge",
+        "subtitle": "subtitle_featured_knowledge",
+        "url": "/api/v5/learning/knowledge",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 200,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
+        "key": "news",
+        "type": "news",
+        "title": "title_featured_news",
+        "subtitle": "subtitle_featured_news",
+        "url": "/api/v5/learning/news",
+        "queryString": {
+          "is_featured": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 200,
+        "width": 200
+      }
+    ],
+    "max_file_size": 52428800,
+    "primary_color": "59aad7",
+    "splash_gradient": [
+      "2196F3",
+      "1565C0"
+    ],
+    "allowed_media_task": [
+      "jpg",
+      "png",
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
+    ],
+    "menu_account": [
+      {
+        "code": "purchase",
+        "label": "purchase",
+        "symbol_icon": "0xe54c",
+        "route": "purchase",
+        "args": null
+      },
+      {
+        "code": "training_external",
+        "label": "training_external",
+        "symbol_icon": "0xeb04",
+        "route": "training_external",
+        "args": null
+      },
+      {
+        "code": "teaching_room",
+        "label": "teaching_room",
+        "symbol_icon": "0xe71b",
+        "route": "training_trainer_room",
+        "args": null
+      },
+      {
+        "code": "group",
+        "label": "community",
+        "symbol_icon": "0xea21",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "team",
+        "label": "team",
+        "symbol_icon": "0xf8d9",
+        "route": "group",
+        "args": null
+      },
+      {
+        "code": "tournament",
+        "label": "tournament",
+        "symbol_icon": "0xf5de",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "thread",
+        "label": "thread",
+        "symbol_icon": "0xe8af",
+        "route": "moment",
+        "args": null
+      },
+      {
+        "code": "competition_manage",
+        "label": "manage_competition",
+        "symbol_icon": "0xf5de",
+        "route": "competition_manage",
+        "args": null
+      },
+      {
+        "code": "presence",
+        "label": "presence",
+        "symbol_icon": "0xe90d",
+        "route": "presence",
+        "args": null
+      },
+      {
+        "code": "subordinate",
+        "label": "subordinate",
+        "symbol_icon": "0xe97a",
+        "route": "subordinate",
+        "args": null
+      }
+    ],
+    "menu": [
+      {
+        "code": "pending_action",
+        "label": "pending_action",
+        "image_svg": "pending_action.svg",
+        "image": "pending_action.png",
+        "color": "4CAF50",
+        "route": "pending_action",
+        "args": null
+      },
+      {
+        "code": "knowledge",
+        "label": "knowledge",
+        "image_svg": "knowledge.svg",
+        "image": "knowledge.png",
+        "color": "4CAF50",
+        "route": "knowledge",
+        "args": null
+      },
+      {
+        "code": "news",
+        "label": "news",
+        "image_svg": "news.svg",
+        "image": "news.png",
+        "color": "F44336",
+        "route": "news",
+        "args": null
+      },
+      {
+        "code": "content",
+        "label": "course",
+        "image_svg": "content.svg",
+        "image": "content.png",
+        "color": "4CAF50",
+        "route": "content",
+        "args": null
+      },
+      {
+        "code": "training",
+        "label": "training",
+        "image_svg": "training.svg",
+        "image": "training.png",
+        "color": "2196F3",
+        "route": "training",
+        "args": null
+      },
+      {
+        "code": "competition",
+        "label": "competition",
+        "image_svg": "competition.svg",
+        "image": "competition.png",
+        "color": "FFEB3B",
+        "route": "competition",
+        "args": null
+      },
+      {
+        "code": "coaching_mentoring",
+        "label": "coaching_mentoring",
+        "image_svg": "coaching_mentoring.svg",
+        "image": "coaching_mentoring.png",
+        "color": "00BCD4",
+        "route": "coaching_mentoring",
+        "args": null
+      },
+      {
+        "code": "expert",
+        "label": "expert",
+        "image_svg": "expert.svg",
+        "image": "expert.png",
+        "color": "F44336",
+        "route": "expert",
+        "args": null
+      },
+      {
+        "code": "daily_activity",
+        "label": "daily_activity",
+        "image_svg": "daily_activity.svg",
+        "image": "daily_activity.png",
+        "color": "9C27B0",
+        "route": "daily_activity",
+        "args": null
+      },
+      {
+        "code": "event",
+        "label": "event",
+        "image_svg": "event.svg",
+        "image": "event.png",
+        "color": "00BCD4",
+        "route": "event",
+        "args": null
+      }
+    ]
+  }
+]
