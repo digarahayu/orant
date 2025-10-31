@@ -2358,19 +2358,18 @@
     "host": "kms.grandbatangcity.co.id",
     "valid_to": "9999-01-01",
     "show_case": 0,
-    "interactive_room": false,
     "secure": false,
     "google_map": false,
-    "daily_check_in": true,
+    "daily_check_in": false,
     "ai": false,
     "btc": false,
     "mission": true,
     "sign_with_password": true,
     "sign_with_google": true,
     "sign_with_microsoft": true,
-    "force_open_setting": false,
-    "directly_request_location": false,
-    "custom_message_permission": false,
+    "force_open_setting": true,
+    "directly_request_location": true,
+    "custom_message_permission": true,
     "logo_small_path": "assets/images/logo/orangt.png",
     "playstore": "https://play.google.com/store/apps/details?id=com.sps.orant",
     "appstore": "https://apps.apple.com/app/orangt-lms/id6612033851",
@@ -2392,28 +2391,6 @@
       "silver.svg",
       "gold.svg",
       "platinum.svg"
-    ],
-    "max_file_size": 52428800,
-    "primary_color": "3F51B5",
-    "splash_gradient": [
-      "1bc6ce",
-      "18515c"
-    ],
-    "allowed_media_task": [
-      "jpg",
-      "png",
-      "pdf",
-      "docx",
-      "doc",
-      "xlsx",
-      "xls",
-      "mp4"
-    ],
-    "watermark": [
-      255,
-      0,
-      0,
-      100
     ],
     "featured_home": [
       {
@@ -2519,6 +2496,28 @@
         "height": 200,
         "width": 200
       }
+    ],
+    "max_file_size": 52428800,
+    "primary_color": "272764",
+    "splash_gradient": [
+      "0098f4",
+      "203281"
+    ],
+    "allowed_media_task": [
+      "jpg",
+      "png",
+      "pdf",
+      "docx",
+      "doc",
+      "xlsx",
+      "xls",
+      "mp4"
+    ],
+    "watermark": [
+      255,
+      0,
+      0,
+      100
     ],
     "menu_account": [
       {
