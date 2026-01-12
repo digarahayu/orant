@@ -1518,6 +1518,16 @@
             "route": null,
             "args": null,
             "path": "mentoring"
+          },
+          {
+            "code": "health",
+            "label": "health",
+            "image_svg": null,
+            "image": null,
+            "color": "F44336",
+            "route": null,
+            "args": null,
+            "path": "health"
           }
         ]
       },
