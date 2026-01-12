@@ -1436,20 +1436,20 @@
           {
             "code": "coaching",
             "label": "coaching",
-            "image_svg": null,
-            "image": null,
+            "image_svg": "",
+            "image": "",
             "color": "F44336",
-            "route": null,
+            "route": "",
             "args": null,
             "path": "coaching"
           },
           {
             "code": "mentoring",
             "label": "mentoring",
-            "image_svg": null,
-            "image": null,
+            "image_svg": "",
+            "image": "",
             "color": "F44336",
-            "route": null,
+            "route": "",
             "args": null,
             "path": "mentoring"
           }
