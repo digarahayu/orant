@@ -1431,7 +1431,29 @@
         "image": "coaching_mentoring.png",
         "color": "00BCD4",
         "route": "coaching_mentoring",
-        "args": null
+        "args": null,
+        "children": [
+          {
+            "code": "coaching",
+            "label": "coaching",
+            "image_svg": null,
+            "image": null,
+            "color": "F44336",
+            "route": null,
+            "args": null,
+            "path": "coaching"
+          },
+          {
+            "code": "mentoring",
+            "label": "mentoring",
+            "image_svg": null,
+            "image": null,
+            "color": "F44336",
+            "route": null,
+            "args": null,
+            "path": "mentoring"
+          }
+        ]
       },
       {
         "code": "expert",
