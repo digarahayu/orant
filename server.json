@@ -378,6 +378,32 @@
             "route": null,
             "args": null,
             "path": "mentoring"
+          },
+          {
+            "code": "health",
+            "label": "health",
+            "image_svg": null,
+            "image": null,
+            "color": "F44336",
+            "route": null,
+            "args": null,
+            "path": "health",
+            "queryString": {
+              "type": "2"
+            }
+          },
+          {
+            "code": "feedback",
+            "label": "feedback",
+            "image_svg": null,
+            "image": null,
+            "color": "F44336",
+            "route": null,
+            "args": null,
+            "path": "feedback",
+            "queryString": {
+              "type": "3"
+            }
           }
         ]
       },
@@ -397,98 +423,6 @@
         "image": "daily_activity.png",
         "color": "9C27B0",
         "route": "daily_activity",
-        "args": null
-      },
-      {
-        "code": "community",
-        "label": "community",
-        "image_svg": "competition.svg",
-        "image": "competition.png",
-        "color": "FFEB3B",
-        "route": "group",
-        "args": null
-      },
-      {
-        "code": "competition",
-        "label": "competition",
-        "image_svg": "competition.svg",
-        "image": "competition.png",
-        "color": "FFEB3B",
-        "route": "competition",
-        "args": null
-      },
-      {
-        "code": "regulation",
-        "label": "regulation",
-        "image_svg": "regulation.svg",
-        "image": "regulation.png",
-        "color": "8BC34A",
-        "route": "regulation",
-        "args": null
-      },
-      {
-        "code": "deviation",
-        "label": "deviation",
-        "image_svg": "deviation.svg",
-        "image": "deviation.png",
-        "color": "F44336",
-        "route": "deviation",
-        "args": null
-      },
-      {
-        "code": "gratification",
-        "label": "gratification",
-        "image_svg": "gratification.svg",
-        "image": "gratification.png",
-        "color": "795548",
-        "route": "gratification",
-        "args": null
-      },
-      {
-        "code": "archive",
-        "label": "archive",
-        "image_svg": "archive.svg",
-        "image": "archive.png",
-        "color": "00BCD4",
-        "route": "archive",
-        "args": null
-      },
-      {
-        "code": "event",
-        "label": "event",
-        "image_svg": "event.svg",
-        "image": "event.png",
-        "color": "00BCD4",
-        "route": "event",
-        "args": null
-      },
-      {
-        "code": "top_up",
-        "label": "top_up_bills",
-        "image_svg": "invoice.svg",
-        "image": "invoice.png",
-        "color": "009688",
-        "route": "job_vacancy",
-        "args": null
-      },
-      {
-        "code": "shop",
-        "label": "shop",
-        "image_svg": "shop.svg",
-        "image": "shop.png",
-        "color": "3F51B5",
-        "route": "web_view",
-        "args": {
-          "url": "https://pasargames.id/"
-        }
-      },
-      {
-        "code": "playmates",
-        "label": "caster",
-        "image_svg": "playmates.svg",
-        "image": "playmates.png",
-        "color": "8BC34A",
-        "route": "playmates",
         "args": null
       }
     ]
