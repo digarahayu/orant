@@ -377,7 +377,10 @@
             "color": "F44336",
             "route": null,
             "args": null,
-            "path": "mentoring"
+            "path": "mentoring",
+            "queryString": {
+              "type": "1"
+            }
           },
           {
             "code": "health",
