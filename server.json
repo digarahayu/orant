@@ -4305,7 +4305,10 @@
             "color": "F44336",
             "route": null,
             "args": null,
-            "path": "mentoring"
+            "path": "mentoring",
+            "queryString": {
+              "type": "1"
+            }
           },
           {
             "code": "health",
@@ -4318,6 +4321,19 @@
             "path": "health",
             "queryString": {
               "type": "2"
+            }
+          },
+          {
+            "code": "feedback",
+            "label": "feedback",
+            "image_svg": null,
+            "image": null,
+            "color": "F44336",
+            "route": null,
+            "args": null,
+            "path": "feedback",
+            "queryString": {
+              "type": "3"
             }
           }
         ]
