@@ -1,0 +1,22 @@
+[
+  {
+    "batch": "1",
+    "code": "dev",
+    "alias": "dev",
+    "name": "Development",
+    "host": "orand-dev.myorangt.com",
+    "valid_to": "9999-01-01",
+    "logo": "logo/jaring.png",
+    "logo_potrait": "logo/jaring.png",
+    "primary_color": "3F51B5",
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
+    "sign_in_password": true,
+    "sign_in_google": true,
+    "sign_in_microsoft": true,
+    "google_map": true,
+    "secure": false
+  }
+]
