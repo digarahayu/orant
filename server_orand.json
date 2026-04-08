@@ -4,7 +4,7 @@
     "code": "local",
     "alias": "local",
     "name": "Localhost",
-    "host": "orand-dev.myorangt.com",
+    "host": "orand.dev",
     "valid_to": "9999-01-01",
     "logo": "logo/jaring.png",
     "logo_potrait": "logo/jaring.png",
