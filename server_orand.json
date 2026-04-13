@@ -18,6 +18,7 @@
     "sign_in_microsoft": true,
     "google_map": true,
     "secure": false,
+    "max_file_size": 52428800,
     "allowed_extension_file": [
       "pdf",
       "docx",
@@ -46,6 +47,7 @@
     "sign_in_microsoft": true,
     "google_map": true,
     "secure": false,
+    "max_file_size": 52428800,
     "allowed_extension_file": [
       "pdf",
       "docx",
