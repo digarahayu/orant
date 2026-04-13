@@ -4666,7 +4666,23 @@
             "color": "F44336",
             "route": null,
             "args": null,
-            "path": "mentoring"
+            "path": "mentoring",
+            "queryString": {
+              "type": "1"
+            }
+          },
+          {
+            "code": "health",
+            "label": "health",
+            "image_svg": null,
+            "image": null,
+            "color": "F44336",
+            "route": null,
+            "args": null,
+            "path": "health",
+            "queryString": {
+              "type": "2"
+            }
           }
         ]
       },
@@ -4997,7 +5013,23 @@
             "color": "F44336",
             "route": null,
             "args": null,
-            "path": "mentoring"
+            "path": "mentoring",
+            "queryString": {
+              "type": "1"
+            }
+          },
+          {
+            "code": "health",
+            "label": "health",
+            "image_svg": null,
+            "image": null,
+            "color": "F44336",
+            "route": null,
+            "args": null,
+            "path": "health",
+            "queryString": {
+              "type": "2"
+            }
           }
         ]
       },
