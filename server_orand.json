@@ -17,7 +17,15 @@
     "sign_in_google": true,
     "sign_in_microsoft": true,
     "google_map": true,
-    "secure": false
+    "secure": false,
+    "allowed_extension_file": [
+      "pdf",
+      "docx",
+      "png",
+      "jpg",
+      "xlsx",
+      "pptx"
+    ]
   },
   {
     "batch": "1",
@@ -37,6 +45,14 @@
     "sign_in_google": true,
     "sign_in_microsoft": true,
     "google_map": true,
-    "secure": false
+    "secure": false,
+    "allowed_extension_file": [
+      "pdf",
+      "docx",
+      "png",
+      "jpg",
+      "xlsx",
+      "pptx"
+    ]
   }
 ]
