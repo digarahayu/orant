@@ -42,7 +42,7 @@
     "sign_in_google": true,
     "sign_in_microsoft": true,
     "google_map": true,
-    "secure": false,
+    "secure": true,
     "max_file_size": 52428800,
     "splash_gradient": [
       "1bc6ce",
