@@ -9,16 +9,16 @@
     "logo": "logo/jaring.png",
     "logo_potrait": "logo/jaring.png",
     "primary_color": "3F51B5",
-    "splash_gradient": [
-      "1bc6ce",
-      "18515c"
-    ],
     "sign_in_password": true,
     "sign_in_google": true,
     "sign_in_microsoft": true,
     "google_map": true,
     "secure": false,
     "max_file_size": 52428800,
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_extension_file": [
       "pdf",
       "docx",
@@ -38,16 +38,16 @@
     "logo": "logo/jaring.png",
     "logo_potrait": "logo/jaring.png",
     "primary_color": "3F51B5",
-    "splash_gradient": [
-      "1bc6ce",
-      "18515c"
-    ],
     "sign_in_password": true,
     "sign_in_google": true,
     "sign_in_microsoft": true,
     "google_map": true,
     "secure": false,
     "max_file_size": 52428800,
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_extension_file": [
       "pdf",
       "docx",
@@ -67,16 +67,16 @@
     "logo": "logo/jaring.png",
     "logo_potrait": "logo/jaring.png",
     "primary_color": "3F51B5",
-    "splash_gradient": [
-      "1bc6ce",
-      "18515c"
-    ],
     "sign_in_password": true,
     "sign_in_google": true,
     "sign_in_microsoft": true,
     "google_map": true,
-    "secure": false,
+    "secure": true,
     "max_file_size": 52428800,
+    "splash_gradient": [
+      "1bc6ce",
+      "18515c"
+    ],
     "allowed_extension_file": [
       "pdf",
       "docx",
