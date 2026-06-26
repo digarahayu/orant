@@ -26,6 +26,13 @@
       "jpg",
       "xlsx",
       "pptx"
+    ],
+    "watermark_font_size": 40,
+    "watermark": [
+      255,
+      0,
+      0,
+      100
     ]
   },
   {
@@ -56,6 +63,7 @@
       "xlsx",
       "pptx"
     ],
+    "watermark_font_size": 40,
     "watermark": [
       255,
       0,
@@ -91,6 +99,7 @@
       "xlsx",
       "pptx"
     ],
+    "watermark_font_size": 40,
     "watermark": [
       255,
       0,
