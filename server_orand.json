@@ -29,6 +29,7 @@
     ],
     "watermark_max_character": 15,
     "watermark_font_size": 40,
+    "watermark_opacity": 0.1,
     "watermark": [
       255,
       0,
@@ -66,6 +67,7 @@
     ],
     "watermark_max_character": 15,
     "watermark_font_size": 40,
+    "watermark_opacity": 0.1,
     "watermark": [
       255,
       0,
@@ -103,6 +105,7 @@
     ],
     "watermark_max_character": 15,
     "watermark_font_size": 40,
+    "watermark_opacity": 0.1,
     "watermark": [
       255,
       0,
