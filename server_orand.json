@@ -27,6 +27,7 @@
       "xlsx",
       "pptx"
     ],
+    "watermark_max_character": 15,
     "watermark_font_size": 40,
     "watermark": [
       255,
@@ -63,6 +64,7 @@
       "xlsx",
       "pptx"
     ],
+    "watermark_max_character": 15,
     "watermark_font_size": 40,
     "watermark": [
       255,
@@ -99,6 +101,7 @@
       "xlsx",
       "pptx"
     ],
+    "watermark_max_character": 15,
     "watermark_font_size": 40,
     "watermark": [
       255,
