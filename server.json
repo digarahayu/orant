@@ -4716,19 +4716,19 @@
     "show_case": 0,
     "secure": false,
     "google_map": false,
-    "daily_check_in": false,
+    "daily_check_in": true,
     "ai": false,
     "btc": false,
-    "mission": false,
+    "mission": true,
     "sign_with_password": true,
     "sign_with_google": true,
     "sign_with_microsoft": true,
+    "competency_coaching_mentoring": true,
+    "recommendation_coaching_mentoring": true,
     "force_open_setting": true,
     "directly_request_location": true,
     "custom_message_permission": true,
-    "competency_coaching_mentoring": true,
     "logo_small_path": "assets/images/logo/wika.png",
-    "no_image": "no_image_wika.svg",
     "playstore": "https://play.google.com/store/apps/details?id=com.sps.orant",
     "appstore": "https://apps.apple.com/app/orangt-lms/id6612033851",
     "instagram": "https://www.instagram.com/lms_orangt/",
@@ -4738,7 +4738,7 @@
     "asset_url": "https://raw.githubusercontent.com/digarahayu/orant/main",
     "privacy_policy_url": "https://myorangt.com/privacy-policy",
     "tos_url": "https://myorangt.com/terms-of-service",
-    "contact_url": "https://wa.me/6285777223422",
+    "contact_url": "https://www.instagram.com/lms_orangt/",
     "about_url": "https://myorangt.com/why-orangt",
     "icon_menu_dir": "default/icon_menu",
     "border_avatar_dir": "default/border_avatar",
@@ -4751,21 +4751,6 @@
       "platinum.svg"
     ],
     "featured_home": [
-      {
-        "show_all": false,
-        "state": true,
-        "key": "knowledge",
-        "type": "knowledge",
-        "title": "title_featured_knowledge",
-        "subtitle": "subtitle_featured_knowledge",
-        "url": "/api/v5/learning/knowledge",
-        "queryString": {
-          "is_featured": "1",
-          "sort_by": "MOST_RECENT"
-        },
-        "height": 200,
-        "width": 200
-      },
       {
         "show_all": false,
         "state": true,
@@ -4812,6 +4797,21 @@
       {
         "show_all": false,
         "state": true,
+        "key": "course_for_you",
+        "type": "course_for_you",
+        "title": "title_course_for_you",
+        "subtitle": "subtitle_course_for_you",
+        "url": "/api/v5/learning/content",
+        "queryString": {
+          "for_you": "1",
+          "sort_by": "MOST_RECENT"
+        },
+        "height": 220,
+        "width": 200
+      },
+      {
+        "show_all": false,
+        "state": true,
         "key": "training",
         "type": "training",
         "title": "title_featured_training",
@@ -4827,16 +4827,16 @@
       {
         "show_all": false,
         "state": true,
-        "key": "course_for_you",
-        "type": "course_for_you",
-        "title": "title_course_for_you",
-        "subtitle": "subtitle_course_for_you",
-        "url": "/api/v5/learning/content",
+        "key": "knowledge",
+        "type": "knowledge",
+        "title": "title_featured_knowledge",
+        "subtitle": "subtitle_featured_knowledge",
+        "url": "/api/v5/learning/knowledge",
         "queryString": {
-          "for_you": "1",
+          "is_featured": "1",
           "sort_by": "MOST_RECENT"
         },
-        "height": 220,
+        "height": 200,
         "width": 200
       },
       {
