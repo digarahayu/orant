@@ -35,6 +35,40 @@
       0,
       0,
       100
+    ],
+    "bottom_main_menu": [
+      {
+        "code": "home",
+        "label": "home",
+        "symbol_icon": "0xe9b2",
+        "route": "",
+        "size": 24,
+        "visible": true
+      },
+      {
+        "code": "drive",
+        "label": "drive",
+        "symbol_icon": "0xe2c7",
+        "route": "",
+        "size": 24,
+        "visible": true
+      },
+      {
+        "code": "request",
+        "label": "request",
+        "symbol_icon": "0xeb14",
+        "route": "",
+        "size": 24,
+        "visible": true
+      },
+      {
+        "code": "account",
+        "label": "account",
+        "symbol_icon": "0xf20b",
+        "route": "",
+        "size": 24,
+        "visible": true
+      }
     ]
   },
   {
@@ -73,6 +107,40 @@
       0,
       0,
       100
+    ],
+    "bottom_main_menu": [
+      {
+        "code": "home",
+        "label": "home",
+        "symbol_icon": "0xe9b2",
+        "route": "",
+        "size": 24,
+        "visible": true
+      },
+      {
+        "code": "drive",
+        "label": "drive",
+        "symbol_icon": "0xe2c7",
+        "route": "",
+        "size": 24,
+        "visible": false
+      },
+      {
+        "code": "request",
+        "label": "request",
+        "symbol_icon": "0xeb14",
+        "route": "",
+        "size": 24,
+        "visible": true
+      },
+      {
+        "code": "account",
+        "label": "account",
+        "symbol_icon": "0xf20b",
+        "route": "",
+        "size": 24,
+        "visible": true
+      }
     ]
   },
   {
@@ -111,6 +179,40 @@
       0,
       0,
       100
+    ],
+    "bottom_main_menu": [
+      {
+        "code": "home",
+        "label": "home",
+        "symbol_icon": "0xe9b2",
+        "route": "",
+        "size": 24,
+        "visible": true
+      },
+      {
+        "code": "drive",
+        "label": "drive",
+        "symbol_icon": "0xe2c7",
+        "route": "",
+        "size": 24,
+        "visible": true
+      },
+      {
+        "code": "request",
+        "label": "request",
+        "symbol_icon": "0xeb14",
+        "route": "",
+        "size": 24,
+        "visible": true
+      },
+      {
+        "code": "account",
+        "label": "account",
+        "symbol_icon": "0xf20b",
+        "route": "",
+        "size": 24,
+        "visible": true
+      }
     ]
   }
 ]
