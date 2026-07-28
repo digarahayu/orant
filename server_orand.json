@@ -69,6 +69,44 @@
         "size": 24,
         "visible": true
       }
+    ],
+    "quick_link_menu": [
+      {
+        "code": "new_request",
+        "label": "new_request",
+        "symbol_icon": "0xe943",
+        "route": "cart",
+        "size": 24,
+        "visible": true,
+        "color": "9C27B0"
+      },
+      {
+        "code": "upload",
+        "label": "upload",
+        "symbol_icon": "0xf09b",
+        "route": "form_upload",
+        "size": 24,
+        "visible": true,
+        "color": "4CAF50"
+      },
+      {
+        "code": "my_drive",
+        "label": "my_drive",
+        "symbol_icon": "0xe2c7",
+        "route": "form_upload",
+        "size": 24,
+        "visible": true,
+        "color": "FFC107"
+      },
+      {
+        "code": "renewal",
+        "label": "renewal",
+        "symbol_icon": "0xe863",
+        "route": "renewal",
+        "size": 24,
+        "visible": true,
+        "color": "2196F3"
+      }
     ]
   },
   {
@@ -141,6 +179,44 @@
         "size": 24,
         "visible": true
       }
+    ],
+    "quick_link_menu": [
+      {
+        "code": "new_request",
+        "label": "new_request",
+        "symbol_icon": "0xe943",
+        "route": "cart",
+        "size": 24,
+        "visible": true,
+        "color": "9C27B0"
+      },
+      {
+        "code": "upload",
+        "label": "upload",
+        "symbol_icon": "0xf09b",
+        "route": "form_upload",
+        "size": 24,
+        "visible": true,
+        "color": "4CAF50"
+      },
+      {
+        "code": "my_drive",
+        "label": "my_drive",
+        "symbol_icon": "0xe2c7",
+        "route": "form_upload",
+        "size": 24,
+        "visible": true,
+        "color": "FFC107"
+      },
+      {
+        "code": "renewal",
+        "label": "renewal",
+        "symbol_icon": "0xe863",
+        "route": "renewal",
+        "size": 24,
+        "visible": true,
+        "color": "2196F3"
+      }
     ]
   },
   {
@@ -212,6 +288,44 @@
         "route": "",
         "size": 24,
         "visible": true
+      }
+    ],
+    "quick_link_menu": [
+      {
+        "code": "new_request",
+        "label": "new_request",
+        "symbol_icon": "0xe943",
+        "route": "cart",
+        "size": 24,
+        "visible": true,
+        "color": "9C27B0"
+      },
+      {
+        "code": "upload",
+        "label": "upload",
+        "symbol_icon": "0xf09b",
+        "route": "form_upload",
+        "size": 24,
+        "visible": true,
+        "color": "4CAF50"
+      },
+      {
+        "code": "my_drive",
+        "label": "my_drive",
+        "symbol_icon": "0xe2c7",
+        "route": "form_upload",
+        "size": 24,
+        "visible": true,
+        "color": "FFC107"
+      },
+      {
+        "code": "renewal",
+        "label": "renewal",
+        "symbol_icon": "0xe863",
+        "route": "renewal",
+        "size": 24,
+        "visible": true,
+        "color": "2196F3"
       }
     ]
   }
