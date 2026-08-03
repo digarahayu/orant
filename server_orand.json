@@ -187,7 +187,7 @@
         "symbol_icon": "0xe943",
         "route": "cart",
         "size": 24,
-        "visible": true,
+        "visible": false,
         "color": "9C27B0"
       },
       {
@@ -297,7 +297,7 @@
         "symbol_icon": "0xe943",
         "route": "cart",
         "size": 24,
-        "visible": true,
+        "visible": false,
         "color": "9C27B0"
       },
       {
